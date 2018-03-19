@@ -1,7 +1,5 @@
-# SecTalks CTF
+# SecTalks
 
-My personal attempts at the CTF competitions from SecTalks Sydney.
+My hacky attempts at the Capture The Flag competitions from [SecTalks Sydney](https://www.meetup.com/SecTalks/).
 
-https://www.meetup.com/SecTalks/
-
-## SYD0x21
+Official solutions are at [https://github.com/sectalks/sectalks](https://github.com/sectalks/sectalks)
