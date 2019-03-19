@@ -1,5 +1,1401 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE foo [  
 <!ELEMENT foo ANY >
 <!ENTITY xxe SYSTEM "file:///flag.txt" >]>
-<foo>&xxe;</foo>
+
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PREQUEL</title>
+	<atom:link href="//www.prequeladventure.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prequeladventure.com</link>
+	<description>The adventures of Katia Managan</description>
+	<lastBuildDate>Wed, 13 Mar 2019 18:16:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>&xxe;</title>
+		<link>https://www.prequeladventure.com/2019/01/14718/</link>
+		<comments>https://www.prequeladventure.com/2019/01/14718/#respond</comments>
+		<pubDate>Thu, 31 Jan 2019 02:16:29 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">https://www.prequeladventure.com/?p=14718</guid>
+		<description><![CDATA[It&#8217;s a beautiful sunrise! Also, someone across the street is cooking breakfast on a smoky outdoor grill. You have a good feeling about today.]]></description>
+				<content:encoded><![CDATA[<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Sir.dickusmagnus wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Just a little peek outside can&#8217;t hurt anyone&#8230;right?</i></left></td></tr></table></br></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2153.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2154.gif" alt="" /></center>
+<p>It&#8217;s a beautiful sunrise!</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2155.gif" alt="" /></center>
+<p>Also, someone across the street is cooking breakfast on a smoky outdoor grill. You have a good feeling about today. </p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2019/01/14718/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Katia: Exercise caution</title>
+		<link>https://www.prequeladventure.com/2019/01/katia-exercise-caution/</link>
+		<comments>https://www.prequeladventure.com/2019/01/katia-exercise-caution/#respond</comments>
+		<pubDate>Mon, 28 Jan 2019 04:56:24 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">https://www.prequeladventure.com/?p=14710</guid>
+		<description><![CDATA[Oh, before I go, could I get you to sign this form saying that actually I am in the Mages Guild, the bag of gold I&#8217;m about to get was voluntarily given to me, and this isn&#8217;t some elaborate scheme to betray me and crush my tiny Khajiiti heart? Sigrid finds the precaution somewhat tedious, <a href='//www.prequeladventure.com/2019/01/katia-exercise-caution/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>eugd wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Do not let her get away with that &#8216;no resistance to your robbery&#8217; BS. Insist she GIVE YOU the items back.</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>K&#8217; wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Make sure you have proof of &#8220;membership&#8221; to the Guild in hand when you walk out of that place with a bag full of gold&#8230;</i></left></td></tr></table></br></center> </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2138.gif" alt="" /></center>
+<p>Oh, before I go, could I get you to sign this form saying that actually I <i>am</i> in the Mages Guild, the bag of gold I&#8217;m about to get <i>was</i> voluntarily given to me, and this <i>isn&#8217;t</i> some elaborate scheme to betray me and crush my tiny Khajiiti heart? </p>
+<p>Sigrid finds the precaution somewhat tedious, but concedes that it&#8217;s probably justified given she&#8217;s betrayed you in an elaborate scheme every day since you met. Why&#8217;s the contract written in imp gall on a page of nightwriting? </p>
+<p>You tell her it&#8217;s because she took your only pencil and paper. You hadn&#8217;t really thought about it until now, but makeshift papers and writing utensils are pretty much the main thing your inventory items get used for. It&#8217;s actually kind of amazing how much simpler your life will become once you own a notebook and pencil. </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2139.gif" alt="" /></center>
+<p>Merry Saturalia, then: you can keep this pen. Anyway, since I&#8217;m the ranking member at this Guildhall, my signature on this should be sufficient proof of your Guild membership. It won&#8217;t be one-hundred-percent official until I get the papers to the Imperial City, but I&#8217;ll send them with the next patrolling guard. Unless you&#8217;re headed that way? </p>
+<p>Nah, I&#8217;ve got a courier job taking me the opposite way, back to the coast. A friend&#8217;s waiting for me, so I kinda want to get that finished rather than taking up a zillion more quests. You know, one thing at a time. </p>
+<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Nopon wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Katia: Move quest &#8220;Miasma of Megalomania&#8221; to your completed quest list. Make &#8220;A Simple Delivery Job&#8221; your active quest.</i></left></td></tr></table></br></center><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>CustodianoftheDice wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Okay, time to update that quest log!</p>
+<p>First you&#8217;ll need a &#8220;Completed Quests&#8221; section since you actually managed to complete a quest and also not die. Go ahead and put &#8220;get stuff back from Sigrid&#8221; in there. </p>
+<p>Now you need to set some new active quests.<br />
+1: Buy Quill-Weave a replacement book. That&#8217;s like the reason you came to Kvatch, so don&#8217;t forget to do it.<br />
+2: Return the Arena gear to the Orc. You&#8217;re not going to compete now, so it would be kind of a dick move to keep it when you have actual clothes to wear.<br />
+3: Find and apologise to Capt. Atrum. Maybe he&#8217;ll have calmed down and can tell you more.<br />
+4: Wait for ASOTIL to come back and travel to Anvil with him. You&#8217;re far more competent now, but there&#8217;a no reason to take unnecessary risks by traveling alone.</i></left></td></tr></table></br></center></p>
+<p>And speaking of quests&#8230;</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2140.gif" alt="" /></center>
+<p>You rip your quest log in half to create a fancy new <i>Completed Quests</i> section. The whole Sigrid thing is clear, and joining the Mages Guild is clear. Just to fill the list a little more, you mark the dance competition as clear too, since it requires an arena raiment; yours was shot with ice bolts, set on fire, soaked in blood, pierced full of holes, and torn apart to make a plate for a dog. Rest in peace, Kvatch arena raiment. </p>
+<p>Other than some miscellaneous stuff like punching Rajirra for being a dick and apologizing to Captain Atrum for being a dick, it looks like your top priority is buying the replacement book, meeting up with Asotil, and heading back to Quill-Weave&#8217;s. You&#8217;ve been dealing with this Kvatch stuff for so long that it feels almost surreal to have everything&#8230; just moving forward. </p>
+<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Gilly wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Sweet. &#8220;Ummm Is there a loaning program on the books? I think I need to read up on the summoning basics . . . and absolutely everything else. &#8221; Mental note: replace any pillaged items like the books and straighten the posters.</i></left></td></tr></table></br></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2141.gif" alt="" /></center>
+<p>Sigrid, by the way, is there like a loan program or something for the magic books upstairs? Can I take some with me, learn all the spells, and become the best wizard ever? </p>
+<p>Probably no to most of that, Sigrid says, but the books are public Guild property so you&#8217;re free to take what you need. </p>
+<p>And alchemy equipment, am I allowed to take a full set of it? Like, with the burny thing, the grindy thing, the tubey one, and the other? </p>
+<p>If you take the Guild rules completely literally, you can take as many sets as you want. The government doesn&#8217;t care. You know, this would be a lot easier if you&#8217;d just act like a Khajiit. </p>
+<p>I know, I know, I&#8217;m sorry. Anyway, you said I could take &#8220;silver daggers&#8221;. Was that a hyperbole, or are they like the alchemy equipment where I can just kind of take as many as I want?</p>
+<p>Really, Sigrid says, just take whatever. You&#8217;re starting to make it very embarrassing to have lost a magic duel to you.</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2142.gif" alt="" /></center>
+<p>Sorry, I&#8217;m just excited that all this hassle finally has a silver lining.</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2143.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2144.gif" alt="" /></center>
+<p>She got it! Did you get it?</p>
+<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Whiskers wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>All things considered. Sigrid is owed some slack. She could have handled these turn of events VERY poorly, but she&#8217;s resorting to diplomacy, if nothing else. Remain wary, but give credit where it&#8217;s due.</i></left></td></tr></table></br></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2145.gif" alt="" /></center>
+<p>You know, Sigrid, without all the weird megalomania-inducing mind control stuff, you&#8217;re really not that bad. Sigrid points out that she&#8217;s done nothing but encourage you to steal things and abuse public services. Okay, you say, so you&#8217;re <i>objectively</i> bad, but I still feel like you&#8217;re the kind of person I could conceivably be friends with. Like, someday. It&#8217;s been like thirty minutes since we were enemies, so my emotions are complicated. And possibly influenced by a charm-magic hangover, but I think I hope not?</p>
+<p>Iiiiii&#8217;m just gonna leave before I make this weirder by continuing to talk. Sorry. Bye. </p>
+<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Saber101 wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>This has been fun and all, but you have your stuff and a sack of gold to collect.</i></left></td></tr></table></br></center><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>wolfknight wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>slowly walk away, get your stuff, and enjoy your BAG OF FREAKING GOLD</i></left></td></tr></table></br></center></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2146.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2147.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2148.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2149.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2150.gif" alt="" /></center>
+<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>hop wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Don&#8217;t keep too much money on your person, and be sure to buy things that don&#8217;t have a high resale value. That orc is still making the rounds between Anvil and Kvatch, remember?</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Kazeread&nbsp;(not&nbsp;to&nbsp;be&nbsp;confused&nbsp;with&nbsp;Kazerad) wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>You&#8217;re likey going to get robbed on the way home. Might want to start thinking about that.</i></left></td></tr></table></br></center> </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2151.gif" alt="" /></center>
+<p>You&#8217;re not &#8220;likely to get robbed&#8221;. People travel between adjacent towns all the time without getting robbed, and just in case you&#8217;re somehow the exception, you already set up a plan to go with Asotil or another patrolling soldier traveling the same road. Random highwaymen aren&#8217;t going to pose any threat when you have an Imperial Legionnaire watching your back. </p>
+<p>Tonight should be all the proof you need that the universe <i>isn&#8217;t</i> completely out to get you, and that sometimes, things turn out alright. While you&#8217;ve certainly learned an important lesson about caution, that doesn&#8217;t mean you have to <i>expect</i> everything in your life to backfire disastrously. </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2152.gif" alt="" /></center>
+<p>Huh, what&#8217;s that orange glow coming from outside?</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2019/01/katia-exercise-caution/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>==&gt;</title>
+		<link>https://www.prequeladventure.com/2018/11/14648/</link>
+		<comments>https://www.prequeladventure.com/2018/11/14648/#respond</comments>
+		<pubDate>Fri, 16 Nov 2018 06:10:53 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">https://www.prequeladventure.com/?p=14648</guid>
+		<description><![CDATA[So, ah&#8230; are we cool now? Are you, like, not evil anymore? I think it would be a misnomer to call me evil, Sigrid says. But, with hindsight, and lacking several thousand septims worth of charms, I&#8217;ll concede my actions do seem a lot less tasteful. Would you believe this expensive falling cage trap once <a href='//www.prequeladventure.com/2018/11/14648/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>NickM. wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Use reason. Establishing common ground is the first step in negotiation.</i></left></td></tr></table></br></center><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Kelibath wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Talk to her, sure. But maybe subtly slide those robes and boots into the cage with you as well while you do it.</i></left></td></tr></table></br></center></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2114.gif" alt="" /></center>
+<p>So, ah&#8230; are we cool now? Are you, like, <i>not evil</i> anymore? </p>
+<p>I think it would be a misnomer to call me <i>evil</i>, Sigrid says. But, with hindsight, and lacking several thousand septims worth of charms, I&#8217;ll concede my actions <i>do</i> seem a lot less tasteful. Would you believe this expensive falling cage trap once felt like a brilliant idea? Now the whole thing just seems chintzy and cliché.</p>
+<p>This is actually my first falling-cage-trap experience, so I&#8217;m not a good judge. Can I leave?</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2115.gif" alt="" /></center>
+<p>Hm? Oh, yes, I figure we&#8217;re pretty much done here. While it&#8217;s certainly <i>interesting</i> how easily you overcome charms, I think we can all agree it&#8217;s not &#8220;interrogate you in a cage&#8221; levels of interesting. I am going to reactivate some basic wards, however, in case you jump out and punch me.</p>
+<p>There <i>are</i> a lot of little voices in the back of my head kinda screaming for it. I mean, that&#8217;s it? You were being affected by your own charm spells, perfume, and magic clothing, and now that they&#8217;re all gone you&#8217;re just&#8230; letting me walk? </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2116.gif" alt="" /></center>
+<p>Is it that surprising? As I said, you&#8217;re one of the rare few to have broken through these sorts of charms, so you should know what it&#8217;s like to realize everything you&#8217;ve been doing is inane and stupid. Not only that, but you <i>used</i> charm magic not even twenty minutes ago. Did you not see what it can do to one&#8217;s self-perceptions?</p>
+<p>I&#8230; yeah, but I was shoveling raw imp gall into my face, basically doing the alchemy equivalent of mixing a drink in my mouth. You were using some professional charm perfume made by bigshot Telvanni wizards. Turning the user into an egotistical megalomaniac seems like a <i>pretty big design flaw</i> for them to&#8230;</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2117.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2118.gif" alt="" /></center>
+<p>Okay, no, this&#8230; this explains everything I&#8217;ve ever heard about the Telvanni. </p>
+<p>You never once found it strange how many of them are married to clones of themselves, Sigrid asks?</p>
+<p>I&#8217;m sorry, I&#8217;m realizing a lot of obvious things about dark elves tonight.</p>
+<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Shay-Tei wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>use your natural ability to get dressed in a blink of an eye in Sigrid&#8217;s clothes and bOOM => now YOU are THE magic</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>PyotrIvanovich wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Katia, you were under effect of fortified personality for about 15 seconds and it already started messing with your brain. Better not touch her garb, it&#8217;s more of a curse than a charm.</i></left></td></tr></table></br></center></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2119.gif" alt="" /></center>
+<p>So like, what&#8217;s the plan for the rest of the Telvanni Bug Musk? Or all the crazy charm-enchanted gear?</p>
+<p>Well, the leylines on the dress and undergarments were no doubt shattered when I literally ripped them off my body. Nords may have no concept of shame, but that doesn&#8217;t mean we can just <i>blink clothes off</i> the way you do. Those rings and bracelets simply have wards and absorption spells, so I&#8217;d like to hang onto them. As for the charm boots, and the rest of the Bug Musk&#8230; given what they turned me into, I&#8217;ll probably just sell them. </p>
+<p>That, ah, seems like a really irresponsible way to dispose of super-powerful magic items?</p>
+<p>Charm magic is common practice, Katia, and the entire spell school isn&#8217;t going to miraculously vanish off the face of Nirn if I burn some shoes. Any trained illusionist with a free weekend could learn the incantations, and any enchanter with a soul gem and some magetallow candles could imbue it into clothing. Charm magic isn&#8217;t exactly rare or difficult, and if it were, mages would simply resort to different, more destructive methods of bending others to their wills.</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2120.gif" alt="" /></center>
+<p>Welcome to wizardry, where people with awful ideas and no social skills invoke supernatural forces to gain power and respect. Almost makes you want to tap out and start a little shop selling healing potions. </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2121.gif" alt="" /></center>
+<p>Wow, that&#8217;s&#8230; pessimistic. I mean, it&#8217;s not like <i>every</i> wizard is an evil jerk like you who wants to control everyone. Even the ones who learn mind control stuff, there&#8217;s probably a lot who use it responsibly, to like, stop bad people and make the world a better place.</p>
+<p>You mean exactly how I was attempting to use it? You&#8217;re new to the practice of magic, Katia, so let me give you a lesson I apparently forgot: there&#8217;s no such thing as &#8220;good&#8221; or &#8220;evil&#8221;, just &#8220;powerful&#8221; and &#8220;powerless&#8221;. For their own safety, powerless people will work together in something we mistake as &#8220;good&#8221;, whereas those with access to power will stomp on whoever they can in the pursuit of some perceived <i>greater</i> good. </p>
+<p>So how about this: if you want to use powerful magic to <i>make the world a better place</i>, I&#8217;ll allow you to put my expensive magical equipment in the deepest part of a cave and then fill the cave with deadly traps. That way, the traps can take care of all the other mages who want to &#8220;make the world a better place&#8221;, and we&#8217;ll actually get something good from it. </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2122.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2123.gif" alt="" /></center>
+<p>I mean, I&#8217;m just <i>saying</i>, I totally used your own mind control stuff against you to stop your evil reign and save Kvatch, so&#8230; <span style="font-size:9px">fuck you, I&#8217;m right, magic is awesome.</span> </p>
+<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>SaintDumos wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Where&#8217;d the skele-bro go? Has CairnCorp<sup>®</sup> retracted their asset or did he just go fwoosh after you immobilized Sigrid?</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Wyvern wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Sort out that business with the soul cairn contract as soon as you get a free moment. Agreements with supernatural entities like that are not something you want hanging over you, especially if composed of badly completed paperwork.</i></left></td></tr></table></br></center></p>
+<p>Oh, right! In the commotion, you hadn&#8217;t even <i>considered</i> what happened to the skeleton. Feeling a little guilty about that, you quickly reach out with your magic to check in.</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2124.gif" alt="" /></center>
+<p>Just like the first time you contacted the skeleton, you are hit with an immediate wave of happiness. You can feel the skeleton&#8217;s thankfulness that you would contact CairnCorp<sup>®</sup>, and curiosity at how your will can best be served today.</p>
+<p>You concentrate on the fact that you&#8217;re fine, and that you don&#8217;t need anything. You just wanted to thank it for its help and make sure it was okay after that big magical explosion. Both it and Sigrid&#8217;s daedra kind of disintegrated, so you&#8217;re not sure what happened to them.</p>
+<p>The skeleton warmly reassures you that there is nothing<sup>†</sup> to worry about. It is currently in the Chapel of Health™ receiving newly-molded replacement parts so that it &#8211; like all<sup>‡</sup> CairnCorp&#8217;s<sup>®</sup> convenient models &#8211; can be in optimal condition for the next time you are in need of The Maker&#8217;s<sup>®</sup> holy aid<sup>‡†</sup>. </p>
+<p>So like, this is an ongoing thing? Any time I need a second skeleton, I just follow the stars to this plane and dial you?</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2125.gif" alt="" /></center>
+<p>A star tesseract is a perfectly suitable conduit used by many conjurers, but CairnCorp<sup>®</sup> is also glad to offer compatibility with binding circles and other liminal bridging techniques, as per your needs and tastes. Since this was your first summon with a new account, you should find an informational packet from CairnCorp<sup>®</sup> nearby, explaining the exciting perks of your free CairnCorp<sup>®</sup> Conjurer Account™. In this packet you&#8217;ll find your basic account information, safe<sup>‡‡</sup> summoning tips, and an Ideal Mastercard<sup>®</sup> used to access your complementary savings account. Your account has a current withdraw limit of 5000 septims (75300 Akaviri roundmarks) a day, although this will increase by 1000 (15060) for every CairnCorp<sup>®</sup>-brand soul gem you use for enchanting.</p>
+<p>You ask what the black, squid-looking thing is. The skeleton tells you that new applicants also receive a free plush Wraithhorse™. Since CairnCorp seems amenable to feedback, you note that a skeleton made out of plush fabric doesn&#8217;t really work all that well. So on the conjuring, I can seriously just call on you no matter where I am, any time of day?</p>
+<p>In any plane of existence as well, the skeleton notes &#8211; although using star tesseracts, you&#8217;d have to know the plane&#8217;s skies. Your free CairnCorp<sup>®</sup> Conjurer Account™ entitles you to check out one Soul Cairn<sup>®</sup> denizen at a time, at your own mana expense. If you are a career conjurer, however, you may consider filling out form A-26 and upgrading to a Platinum Account™, which allows the simultaneous summoning of up to six Soul Cairn<sup>®</sup> denizens and is available for the low price of <span style="text-shadow: 0px 0px 6px rgba(0,0,0,1);color: rgba(249,249,249,1);">your soul</span>. </p>
+<p>Thanks, you think to the skeleton, but you&#8217;re good for now. You&#8217;ll keep the offer in mind. </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2126.gif" alt="" /></center>
+<p>By the way, do you have a name?</p>
+<p>The skeleton uneasily tells you that individuality like that doesn&#8217;t have a place in the Holy Ways™ of the Makers<sup>®</sup>. It is simply a skeleton.</p>
+<p>Okay, it&#8217;s just, calling you &#8220;the skeleton&#8221; or &#8220;it&#8221; feels really impersonal. You kinda saved my life back there, and all of Kvatch. Can I <i>give</i> you a name?</p>
+<p>The skeleton isn&#8217;t comfortable with how this relationship is progressing. It&#8217;s going to file a request with the Keeper™ to have a different skeleton take over your account from here on out.</p>
+<p>Did I, ah, mess this up?</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2127.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2128.gif" alt="" /></center>
+<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Aurastrider wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Make her give you back everything you &#8220;gave&#8221; her while you were under the bug musk spell. Especially quill&#8217;s book.</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>QuiMoritur wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>This is your chance. Sue for peace, get your stuff back, get the hell out of dodge so you can finally complete your mission for Quill-Weave!</i></left></td></tr></table></br></center></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2129.gif" alt="" /></center>
+<p>Hey, Sigrid, I don&#8217;t usually win things and I&#8217;m not sure how to handle this. The other day you took a robe, a package, and a purse of gold and stuff from me. Since I beat you in a magic duel am I, like, allowed to go get that now?</p>
+<p>Sigrid says that you&#8217;re technically burgling her home, so &#8220;allowing&#8221; wouldn&#8217;t be the appropriate word for it. This place is covered by Guild insurance, though, and your entire goal is apparently to take roughly thirty septims&#8217; worth of goods, so she won&#8217;t oppose you if you finish what you came here to accomplish. </p>
+<p>Okay, but like, can you tell me where the things are? Or give me a key? I always expect this post-battle victory stuff to be easy and intuitive, but instead it&#8217;s just really awkward and everyone is naked. You know there&#8217;s a bunch of robes in that crate right next to us, right?</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2130.gif" alt="" /></center>
+<p>Don&#8217;t be gross, Katia, those are <i>necromancer</i> robes. Anyway, I&#8217;m still the ranking member of this Guildhall and I don&#8217;t want to deal with the aftermath of aiding in its burglary. But, I also don&#8217;t really want to take any accountability for robbing you earlier, so if you&#8217;re good with calling this square as-is, I&#8217;m just going to fill out a New Applicant form and say you joined the Mages Guild last night. Welcome to the wonderful world of professional wizardry. Here&#8217;s your key, and help yourself to any silver daggers, calcinators, and various items that may or may not have been &#8220;left&#8221; upstairs. The gold would be in the pile with the rest, so just take a sack of it to cover losses.</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2131.gif" alt="" /></center>
+<p>I, ah, I&#8217;m still processing the &#8220;joined the Mages Guild&#8221; part, but when you say &#8220;sack&#8221;, are you talking like &#8220;coin purse&#8221; or &#8220;laundry bag&#8221;? </p>
+<p>You know, a money sack. The type people offer you huge amounts of money in when they perceive you as an apex of compassion and amenability within the local community. </p>
+<p>So like, a grocery bag? I don&#8217;t have a frame of reference for this and I&#8217;m scared.</p>
+<p>Sure, yes, that&#8217;s fine. Just don&#8217;t take everything; if this ordeal is any indication, I&#8217;ll probably have to give a good amount of it back as reparations, apologies, and other unfortunate yet inevitable consequences of magical competence. Let&#8217;s not leave me with any additional problems beyond what I already have. </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2132.gif" alt="" /></center>
+<p>And just to check: this isn&#8217;t some horrifying, hope-crushing trap? Like, you&#8217;re saying I can go upstairs, get my stuff back, and literally take a grocery bag full of gold?</p>
+<p>Sigrid admits that she thought about signing you up for the Mages Guild and running away while you weren&#8217;t looking so you&#8217;d have to handle all the fallout of what she&#8217;s done, but she should probably just stop being a horrible person while she&#8217;s ahead. Perhaps it&#8217;s residual charm effects, or perhaps it&#8217;s simply the terrifying fact that you&#8217;re <i>not</i> grabbing the boots and Bug Musk to make her give you everything, but a grocery bag full of gold feels fair. </p>
+<p>And you&#8217;re not mad at me for ending your evil reign?</p>
+<p>She says that it was probably inevitable anyway, and at least this way she avoided a dramatic &#8220;what have I become&#8221; moment and was instead defeated in a nude mime fight over thirty gold. She&#8217;d say this was a victory for everyone involved. </p>
+<p>And&#8230; I&#8217;m actually in the Mages Guild now? I can, like&#8230; go here or any Mages Guild in the world, read the books, eat the food, and sleep in the beds? </p>
+<p>If it sounds too good to be true, Sigrid says, remember that the government basically funds this to keep mages from going on angst-fueled killing sprees against the people who shunned them, and is only giving them food and education in the hopes they&#8217;ll direct their sociopathy away from the Empire.</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2133.gif" alt="" /></center>
+<p>I like the official tagline more: &#8220;the collection, preservation, and distribution of magical knowledge with an emphasis on ensuring that all citizens of Tamriel benefit from this knowledge&#8221;. I totally had a page from the charter hung on my wall when I was little.</p>
+<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>tondar wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Katia successfully summens the skeleton, she is than kicked out int the street for practicing necromancy</i></left></td></tr></table></br></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2134.gif" alt="" /></center>
+<p>But, ah, on that note, is the skeleton thing I did back there gonna cause problems? I heard about the guild recently banning necromancy, and I&#8217;m not sure if, like, I&#8217;m a necromancer now. </p>
+<p>Sigrid explains that the <i>official</i> rules say that the Soul Cairn falls on the &#8220;okay&#8221; side of the line, since the Ideal Masters reanimated those creatures and you&#8217;re simply summoning them. For the most part, people will just be astounded you were willing to tolerate the paperwork and bureaucracy. Most conjurers prefer to pull from the Deadlands, which is like a house with no locks and an owner who&#8217;s constantly angry that people are constantly stealing his pets and silverware. Or Infernace, which is more of a&#8230; <i>laid back</i> Soul Cairn.</p>
+<p>A &#8220;laid back Soul Cairn&#8221;?</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2135.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2136.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2137.gif" alt="" /></center>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2018/11/14648/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>==&gt;</title>
+		<link>https://www.prequeladventure.com/2018/09/14535/</link>
+		<comments>https://www.prequeladventure.com/2018/09/14535/#respond</comments>
+		<pubDate>Thu, 20 Sep 2018 03:20:58 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">http://www.prequeladventure.com/?p=14535</guid>
+		<description><![CDATA[You are pretty sure there was some really good reason you weren&#8217;t supposed to talk right now, but at the same time you know Sigrid is using mind-altering alchemy bullshit and it&#8217;s probably filling in some of the blanks like it did last time. You kind of feel like you should be standing up to <a href='//www.prequeladventure.com/2018/09/14535/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>bluedraggy wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Katia, are you completely under Sigrid&#8217;s spell now, or can you just not talk? Is she the most wonderful person you ever met again?</i></left></td></tr></table></br></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2089.gif" alt="" /></center>
+<p>You are pretty sure there was some <i>really good reason</i> you weren&#8217;t supposed to talk right now, but at the same time you <i>know</i> Sigrid is using mind-altering alchemy bullshit and it&#8217;s probably filling in some of the blanks like it did last time. You kind of feel like you should be standing up to her as an independent person who doesn&#8217;t deserve to be ordered around like a slave, but you&#8217;re also <i>pretty sure</i> you only feel that way about yourself because you just ate half a barrel of magical charisma-slime and it&#8217;s screwing with your head. Everything Sigrid wants makes <i>sense</i>, but it also doesn&#8217;t feel right that she can bark commands at someone as <i>smart</i>, as <i>pretty</i>, as&#8230; <i>infallible</i> as you are. Even the imp gall running down your chin is coming across as <i>badass and rugged-looking</i> rather than disgusting, but since it was just a raw ingredient, you probably only have like twelve seconds before this effect wears off and </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2090.gif" alt="" /></center>
+<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>WaterL0gged wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>GRAB THE SWORD</i></left></td></tr></table></br></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2091.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2092.gif" alt="" /></center>
+<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>tet wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Char your scrap of bread and scribble a message on your scraps of paper.</i></left></td></tr></table></br></center> <div style="margin:20px; margin-top:5px"><div class="smallfont" style="margin-bottom:2px"><input type="button" value="Show other commands used" style="width:160px;font-size:10px;margin:0px;padding:0px;" onClick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Hide'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Show'; }"></div><div class="alt2" style="margin: 0px; padding: 6px; border: 1px inset;"><div style="display: none;"><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>OGn wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Start with &#8220;Don&#8217;t write anything&#8221; and &#8220;Don&#8217;t kill me&#8221;.</i></left></td></tr></table></br></center><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Dunc wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Start using sign language! Do we know any?</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Kavro wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>If you can get a word in edgewise, get her to remove the half-million enchantments she has on.</i></left></td></tr></table></br></center></div></div></div></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2093.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2094.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2095.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2096.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2097.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2098.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2099b.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2100.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2101.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2102.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2103.gif" alt="" /></center>
+<p><center><i>Time&#8217;s up.</i></center></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2104.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/blackout.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2105.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2106.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2107.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2108.gif" alt="" /></center>
+<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Pallas wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Cast dispel on Sigrid</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Docked wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Katia: SUCK HER MAGIC FROM HER FEEL IT AND RIP IT FROM HER and tongue</i></left></td></tr></table></br></center>  <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Heph wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Use your telekinesis to dump the barrel of water on her to wash away the bug musk!</i></left></td></tr></table></br></center></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2108b.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2109.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2110.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/blackout.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/blackout.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/blackout.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/blackout.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/blackout.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2111.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2112.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2113.gif" alt="" /></center>
+<p>You know, Katia, without all the charm magic&#8230; I come across as somewhat douchey, don&#8217;t I?</p>
+<p>Yeah, you&#8217;re kind of an asshole. </p>
+<p style="text-align: right; font-size: x-small;"><b>Additional resource credits:</b><br />
+<a href="//twitter.com/akunimdraws?lang=en">Akunim</a><br />
+<a href="it's nothing but porn, google it if you really want">Zokva</a><br />
+Cider<br />
+<a href="//mostlylizard.com/">Rawrunes</a><br />
+<a href="//guoh-art.tumblr.com/">Guoh</a><br />
+<a href="//www.deviantart.com/thecheryl">Squiggles</a><br />
+AMKitsune</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2018/09/14535/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>==&gt;</title>
+		<link>https://www.prequeladventure.com/2018/08/14473/</link>
+		<comments>https://www.prequeladventure.com/2018/08/14473/#respond</comments>
+		<pubDate>Tue, 07 Aug 2018 21:36:19 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">http://www.prequeladventure.com/?p=14473</guid>
+		<description><![CDATA[Democracy wrought: &#8220;A skele-ton of skele-fun.&#8221;: 6.18/10 &#8220;Good conjuration – we ain’t ribbing&#8221;: 5.62/10 &#8220;Gladiatorial calcium.&#8221;: 5.74/10 A skeleton, Katia? I&#8217;m not sure what you expected that to- Don&#8217;t say anything! Additional resource credits: Cider &#8211; some of the art Rawrunes &#8211; also some of it]]></description>
+				<content:encoded><![CDATA[<p><center></p>
+<table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;">
+<tr>
+<td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Democracy wrought:</b></center></td>
+</tr>
+<tr>
+<td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>&#8220;A skele-ton of skele-fun.&#8221;: 6.18/10<br />
+&#8220;Good conjuration – we ain’t ribbing&#8221;: 5.62/10<br />
+&#8220;Gladiatorial calcium.&#8221;: 5.74/10</i></left></td>
+</tr>
+</table>
+<p></center><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Drgnhawk wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Think: 5, 1, 10, HELP ME I can&#8217;t be a repeat customer if I die!</i></left></td></tr></table></br></center><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>andwhyisit wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Hold your breath for as long as you can!</i></left></td></tr></table></br></center><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Rune wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>FOR THE LOVE OF THE NINE, HOLD YOUR BREATH!</i></left></td></tr></table></br></center><div style="margin:20px; margin-top:5px"><div class="smallfont" style="margin-bottom:2px"><input type="button" value="Show other commands used" style="width:160px;font-size:10px;margin:0px;padding:0px;" onClick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Hide'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Show'; }"></div><div class="alt2" style="margin: 0px; padding: 6px; border: 1px inset;"><div style="display: none;"><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Levion wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Summoned Creature: Appear inside metal cage</i></left></td></tr></table></br></center></div></div></div></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2082.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2083.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2084.gif" alt="" /></center>
+<p>A <i>skeleton</i>, Katia? I&#8217;m not sure what you expected that to-	</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2085.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2086.gif" alt="" /></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2087a.gif" alt="" /></center>
+<p><center><span style="font-style: italic; text-shadow: 7px 5px 0px rgba(160,160,160,1)">Don&#8217;t say anything!</span></center></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2088a.gif" alt="" /></center>
+<p style="text-align: right; font-size: x-small;"><b>Additional resource credits:</b><br />
+Cider &#8211; some of the art<br />
+<a href="//mostlylizard.com/">Rawrunes</a> &#8211; also some of it</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2018/08/14473/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Katia: Hurry/Stall</title>
+		<link>https://www.prequeladventure.com/2018/07/katia-hurrystall/</link>
+		<comments>https://www.prequeladventure.com/2018/07/katia-hurrystall/#respond</comments>
+		<pubDate>Sat, 14 Jul 2018 08:14:09 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">http://www.prequeladventure.com/?p=14459</guid>
+		<description><![CDATA[Yes! You agree to the thing! You mentally command the skeleton to sign the contract quickly and send some kind of help. To your dismay, you only feel confusion in response. &#8220;Contract&#8221;? The skeleton reminds you that CairnCorp® prides itself on providing a more comfortable‡‡ user experience than the run-of-the-mill daedric plane, and would never <a href='//www.prequeladventure.com/2018/07/katia-hurrystall/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>ApparentlyAlvin wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>SHE&#8217;S GOING FOR THE MUSK! Act now!</i></left></td></tr></table></br></center><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Name wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>This is no time for fine print, Just sign the thing!</i></left></td></tr></table></br></center><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Ziehr wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Katia to sigrid: Have i got a bone to pick with you</i></left></td></tr></table></br></center></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2073.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">Yes! You agree to the thing! You mentally command the skeleton to sign the contract quickly and send some kind of help.</p>
+<p>To your dismay, you only feel confusion in response. &#8220;Contract&#8221;? The skeleton reminds you that CairnCorp<sup>®</sup> prides itself on providing a more comfortable<sup>‡‡</sup> user experience than the run-of-the-mill daedric plane, and would <i>never</i> trick clients into signing a long and confusing contract. The only contractual agreement in this packet is the first three pages, briefly outlining the basic benefits and user-end liabilities of your free CairnCorp<sup>®</sup> Conjurer Account™. The bottom of Page 3 is where you agree to these terms, pages 4-6 are where you set up your account preferences, and pages 7-354 are mandatory questions on your demographics and interests to help CairnCorp<sup>®</sup> notify you of specials and promotions that are just right<sup>‡‡†</sup> for you.</td>
+<td valign="top">Well ain&#8217;t that the bees knees, because <i>I have a bone to pick with you</i>.</p>
+<p>What, Sigrid says? </p>
+<p>You quickly come to the horrifying realization that a skeletal warrior is <i>not</i> about to pop over into the room, and your clever line was completely mistimed. While you frantically try to figure out what&#8217;s going on with the summoning spell, you explain to Sigrid that by &#8220;bone to pick&#8221; you mean &#8220;I will tell you everything you want to know, just please please please don&#8217;t do the bug musk thing&#8221;. </p>
+<p>The room is silent for a tense moment (at least, you&#8217;re pretty sure the music is from the skeleton&#8217;s end of the telepathic link). Sigrid sighs once again, but this time doesn&#8217;t take a single step.</td>
+</tr>
+</table>
+<div style="margin:20px; margin-top:5px"><div class="smallfont" style="margin-bottom:2px"><input type="button" value="Show other commands used" style="width:160px;font-size:10px;margin:0px;padding:0px;" onClick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Hide'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Show'; }"></div><div class="alt2" style="margin: 0px; padding: 6px; border: 1px inset;"><div style="display: none;"><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Gemohandy wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>So here&#8217;s what you do: you tell the truth. The reason you broke the spell before was because you realized that you had given up a few relatively-trivial items that meant you had no chance of succeeding in your quest. Of not being a failure. All that&#8217;s really needed to make sure you don&#8217;t break the spell again? She hands over the letter and book, and lets you go on your happy way.</i></left></td></tr></table></br></center></div></div></div>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2074.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">Okay, but like&#8230; can you skip that last part until later? You focus on the fact that you are <i>kind of in a tight spot</i>, and would be <i>much more likely to survive</i> if you could summon help now and fill out the 350-page questionnaire once you&#8217;re safe. </p>
+<p>The skeleton admires your eagerness to conjure with CairnCorp<sup>®</sup>, but notes that CairnCorp&#8217;s success comes from understanding the needs<sup>‡‡‡</sup> of their customers, and the registration forms are required for all new accounts. However, the entire page on gender and sexuality is optional, so it&#8217;s really only 349 pages that require your input. </p>
+<p>To get you started, the skeleton flips ahead to &#8220;<i>Which of the following conditions (magical or otherwise) have you been afflicted with in the last 6 months</i>&#8221; and puts a mark by &#8220;blindness&#8221;. Would you like to add more to this answer, or return to page one?</td>
+<td valign="top">Katia, this <i>whole time</i> you&#8217;ve been promising to give the answers I wanted. I gave you the benefit of the doubt, and received nothing but meandering lies and wasted time in return. How long did you spend talking about a dog named Lulu, swearing it was the answer to my question? </p>
+<p>Okay, you say, but like, I promise this time I am actually going to tell you how I broke through the creepy mind control. You don&#8217;t have to use the mind control perfume stuff, because I am going to answer your question now. Any second now.</p>
+<p>Katia&#8230;</p>
+<p>I am! The truth is, after I gave you all my stuff, I started thinking about the very important delivery I was doing for my best friend, and how I gave you her package, and it… it <i>didn&#8217;t make sense</i>. And that was it.</td>
+</tr>
+</table>
+<p><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Pumpkinbot wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Politely think out to the skeleton friend &#8220;FUCK FUCK FUCK SHE&#8217;S ABOUT TO MIND-CONTROL ME OH FUCKING FUCK&#8221;</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>RadicalCoffee wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Sigrid is really egotistical. Try to play with her thoughts, pretend to agree with the comments she made about you and save as much time as you can.</i></left></td></tr></table></br></center></p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2075.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">Being as <i>polite as possible</i>, you aggressively think about how the evil sorceress is about to mind-control you in like five seconds and if you don&#8217;t get help <i>right now</i> you&#8217;re pretty sure you&#8217;re gonna end up either dead or too enthralled to care about summoning with CairnCorp (<sup>®</sup>, the skeleton adds). </p>
+<p>The skeleton can understand where the paperwork might be inconvenient. This is why they always encourage prospective users to register before the need arises. If your aggressor is using mind control magic, perhaps you could use a resistance spell or potion to delay them while you set up your account?</p>
+<p>You were <i>born</i> magic-resistant (the skeleton marks this under the &#8220;conditions&#8221; question), and if chewing up an alchemical ingredient for a tiny effect counts as a &#8220;potion&#8221;, you have a magic resistance potion too. The problem is that she&#8217;s not <i>using</i> a magic spell &#8211; she&#8217;s using some kind of pheromone perfume. You think it was called &#8220;Telvanni Bug Musk&#8221;? Whatever it was, your magic resistance didn&#8217;t seem to help at all. </p>
+<p>The skeleton ponders your predicament. It has never encountered such a situation before, and isn&#8217;t sure the best way to proceed. Hold on, I&#8217;m going to push this down to Regional.</p>
+<p>Wait, what?</td>
+<td valign="top">Miss Managan, I thought I told you these games are-</p>
+<p>It&#8217;s not a game! That&#8217;s what happened! I thought about the thing I did, and it seemed really dumb, and&#8230; I realized it was mind control. </p>
+<p>Sigrid starts to reply, but you cut her off and keep going. Look, you&#8217;re right, I&#8217;m not good at people. I have like one friend, and I think it might be the latest in a long line of pity friendships. And all that stuff you said about me just trying to advance my own standing, it&#8217;s <i>kinda true</i>! Would you like me to explain everything else you&#8217;re right about, slowly so that you can savor it?</p>
+<p>No, I&#8217;d like you to answer my question, Katia, which you are clearly unwilling to-</p>
+<p>I did! I answered it! It&#8217;s not an <i>exciting</i> answer, but it&#8217;s the truth and I don&#8217;t have anything else I can give you!</p>
+<p>The smallest tinge of anger enters Sigrid&#8217;s tone, although it quickly fades. You hear the hollow echo of the ceramic bottle in her hand. <i>Nothing</i> you&#8217;ve said has been the truth, Katia. Every word has been stalling and misdirection, and I find it <i>hard to believe</i> you are telling me the whole truth now, especially with an answer so banally <i>empty</i>. But, it&#8217;s no matter. With a little help, I&#8217;m sure you&#8217;ll understand where I&#8217;m coming from, and give me the information I want.</td>
+</tr>
+</table>
+<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Allecyte wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Sigrid&#8217;s being a hypocrite. He&#8217;s talking about the whole being selfless act, and yet the whole reason you are there is to get back a package for somebody else, but she took it from you for herself. Challenge her with that. It may buy you a little more time. </i></left></td></tr></table></br></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2076.gif" alt="" /></center>
+<table>
+<col width=33%>
+<col width=34%>
+<col width=33%>
+<tr>
+<td valign="top">You experience the unnerving sensation of feeling happy to see yourself, slowly parsing that a new mind has entered your telepathic connection. The skeleton greets the Keeper™.</p>
+<p>The skeleton considers your situation: you need additional time to fill out the registration paperwork, but are in immediate danger of being mind controlled. Yes, they are already equipped for magic resistance, the skeleton thinks. The aggressor is exercising mind control through a pheromone called &#8220;Telvanni Bug Musk&#8221;. </p>
+<p>The skeleton waits as the Keeper™ ponders your predicament. Just like the skeleton, the Keeper™ has never encountered such a situation. It&#8217;s moving this down to Corporate.</td>
+<td valign="top">The Keeper™ feels a wave of happiness, like an old friend just walked through the door. It thanks the skeleton for contacting Regional, and wonders how it can best serve it today. </p>
+<p>The skeleton explains the situation. Listening carefully, the Keeper™ suggests utilizing a magic resistance potion or spell to buy additional time for the paperwork. The skeleton notes that this was tried, but the aggressor is using atypical mind control methods &#8211; a pheromone they called &#8220;Telvanni Bug Musk&#8221;. </p>
+<p>The Keeper™ ponders your predicament. It has never encountered such a situation before, and isn&#8217;t sure the best way to proceed. Hold on, I&#8217;m going to push this down to Corporate.</td>
+<td valign="top">W-wait! Maybe you should, like, do the thing you were saying before, about being nice? Like, let me go for now, and later I can tell you all the secret details about how I realized I was being mind controlled? </p>
+<p>Sigrid replies with something about how she&#8217;s already been very nice and you&#8217;re the one who keeps shooting it down. You have three sets of senses right now and it&#8217;s getting kind of super hard to keep track of, but you&#8217;re pretty sure she&#8217;s saying &#8220;no&#8221;.</p>
+<p>With the meager remainder of your attention you try to call her out as hypocritical, but she confidently replies with something or other about how you&#8217;re wrong and she&#8217;s right. Despite not hearing the details, you try to explain-</td>
+</tr>
+</table>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2077.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">The blessed Maker<sup>®</sup> of the Soul Cairn<sup>®</sup> feels only removed dispassion as the skeleton and Keeper™ greet it with reverence. It wonders why its Holy Name™ was invoked, its slumber disturbed. The Keeper™ explains the situation: the skeleton is in contact with a conjurer who needs to fill out the registration paperwork, but is in immediate danger of being mind controlled. The Maker<sup>®</sup> considers that a magic resistance spell or potion may delay the aggressor and provide time to fill out the paperwork, but the Keeper™ passes along that you&#8217;ve already tried. The mind control is being exercised through a pheromone called Telvanni Bug Musk.</p>
+<p>Woah, hold the bone-phone. Did you say <i>Telvanni Bug Musk</i>?</p>
+<p>The Keeper™ confirms that the skeleton said you called it Telvanni Bug Musk. The skeleton corroborates. You note that, yes, that is what you remember it being called. </p>
+<p>Flippin&#8217; fibulas, is this conjurer dealing with the damned <i>Telvanni</i>? Which Telvanni is it? If it&#8217;s Mistress Dratha, that witch owes me her soul, <i>twice</i>! Unless she&#8217;s somehow grown a second soul in the last 2500 years, I&#8217;m pretty sure that overglorified skeleton cozy is making a chump of us. </p>
+<p>Everybony chill a sec, the Maker<sup>®</sup> thinks, I&#8217;m maximizing the conjurer&#8217;s window. </td>
+<td valign="top">Sigrid interrupts you to whisper that the soul fissures in glebe C have gone back up to full production. Wait, no, that&#8217;s not Sigrid, that&#8217;s someone else. You give a quick nod in response. Or wait, <i>you</i> don&#8217;t nod, it&#8217;s the-</p>
+<p>What was that, Sigrid asks?</p>
+<p>Ah, nothing, you struggle to say. I was just talking about how I think you might be looking at the situation wrong.</p>
+<p>No, I mean the <i>nod</i>. You were wasting more of my time with circular nonsense when you stopped and nodded.</p>
+<p>It&#8217;s, ah&#8230; force of habit, trying to flick hair out of my eyes? Anyway what I mean is that the thing you were saying before is right, but I think I&#8217;m… righter. Maybe you could talk about that for a little bit? </p>
+<p>This stalling is <i>tiresome</i>, Katia. It&#8217;s not as though I&#8217;m going to <i>kill</i> you; I just want us to speak as equals &#8211; even if I have to achieve it through alchemical means. </p>
+<p>Wait wait wait! If you do the mind control perfume thing to make me like you, I might&#8230; not be able to tell you why I <i>disliked</i> you. R&#8230; right? </p>
+<p>Sigrid says nothing. You realize you might have found an angle to delay her, and push it.</p>
+<p>Like, right now, I can talk <i>at length</i> about why I don&#8217;t like you and would try to resist your-
+</td>
+</tr>
+</table>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2078.gif" alt="" /></center>
+<p>Through the conjurer&#8217;s sightless eyes, you gaze upon the magic-user before you. Even without her damnable Telvanni alchemy, she is quite clearly equipped for control. You count no less than three charm enchantments on her attire, most of them with physical activation switches for mana conservation &#8211; typical dark elf make. It&#8217;s not enough to conclude this is the sorceress who wronged you, but it&#8217;s close enough to be suspicious. </p>
+<p>The conjurer protests slightly at your prominence in their thoughts, but you dismiss it for the time being. </p>
+<p>Beyond the bound enchantments, there is one charm spell, definitely scroll-cast, and a few rudimentary wards. Running the sheer numbers, it&#8217;s impressive the conjurer is willfully standing against this witch as-is. </p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2079.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">Pulling back from your thoughts, the Maker<sup>®</sup> considers your situation. Standard magic resistance won&#8217;t work against Bug Musk (it&#8217;s tried), and it recognizes that you&#8217;ll have no desire to oppose this sorceress once the pheromones are deployed. It wonders if you can telekinetically remove the enchanted clothing and try to simply endure the controlling effects of the Musk on its own, but you both simultaneously realize that her magic absorption enchantments would prevent any such thing. You add that your usual method for getting people out of their clothes only works on men. Wow, gross, the Maker<sup>®</sup> thinks. </p>
+<p>Are there any more Bug Musk bottles around you, it wonders? If you can get your meaty phalanges on some, you might be able to convince her to wait while you fill out the registration forms. Are we <i>really</i> still on about the registration forms? With exasperation, you note that if you can find some way to charm her into submission, you won&#8217;t even <i>need</i> CairnCorp (<sup>®</sup>, the skeleton adds). The Maker<sup>®</sup>, in return, notes that that stings. </p>
+<p>There <i>is</i> a barrel of imp gall, you think. The Maker<sup>®</sup>, like you, recognizes it as an ingredient in the more rudimentary potions diplomats use to boost their charisma, and wonders if there&#8217;s any other reagents it could be mixed with. Nothing but water, you reply, and that won&#8217;t do anything to enhance the alchemical properties of the imp gall. If you weren&#8217;t panicked, you&#8217;d be a little proud you actually know this stuff now. </p>
+<p>The Maker<sup>®</sup> is silent. Then, it thinks: How <i>much</i> imp gall is there?</p>
+<p>You&#8230; might see where this is going. A full barrel, you think. You&#8217;re blocked off from it by bars, though, and it&#8217;s too heavy for you to magically drag to the cage. <i>With some help</i>, you could potentially reach it, or even just beat the witch up directly. As in, you sure. Could. Use. SOME. HELP.</td>
+<td valign="top">As soon as your senses are back, you apologize to Sigrid for stopping mid-word. ANYWAY, as I was saying, I can talk at length about why I… would…</p>
+<p>Sigrid isn&#8217;t saying anything. As your words peter out, Sigrid <i>still</i> says nothing. Until &#8211;</p>
+<p>You know, Katia, I&#8217;ve been <i>so dead-set</i> on figuring out how you came to hate me so, I&#8217;ve been neglecting a much more interesting question: why are <i>you</i> so dead-set on stalling for time?</p>
+<p>I&#8217;ll say it again: you&#8217;re not the type who would be saved by friends. If you truly do have any friends besides me, I suspect they&#8217;re the sort who merely tolerate you. But, you <i>are</i> an aspirant mage. And while lacking in both power and intelligence, you certainly are the kind of Khajiit who would <i>try</i> to cast her way out of a situation like this. You&#8217;d probably come up with an elaborate plan that could be completely ruined by, say, one <i>magical silence</i> spell.</p>
+<p>I&#8217;m not casting any spells! The response comes out as a strained squeak as you struggle to maintain the unwieldy summoning spell and continue your telepathic conversation with the &#8220;Maker&#8221; (<sup>®</sup>, the Keeper™ adds). </p>
+<p>Strands of magicka weave together in what you assume is Sigrid&#8217;s hand. You can practically <i>hear</i> her smirk. If you&#8217;re not casting any spells, she says, then <i>surely</i> you wouldn&#8217;t mind if I cast a silence spell on you? </p>
+<p>Go ahead! Cast it! I promise you that I am not doing anything magical! </p>
+<p>Alright then, she says, I will.</p>
+<p>W-wait, that was a bluff, can I go back a step?</p>
+<p>With the sound of sparking magic, Sigrid thrusts her hand forward. You move to dodge, but the silencing spell strikes you and- </td>
+</tr>
+</table>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2080.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">Uuuuugggggh, fine. Fine! </p>
+<p>Registration accepted, but your username is Slutty Meatsack and your default language is dragonling screams. Also, I&#8217;m looking at your leyline and it&#8217;s awful. I didn&#8217;t even <i>know</i> Mundus looped at the edges, you drew <i>actual pictures</i> with it on your way here, and pulling even our weakest model along this would take more mana than you will ever have in your life. </p>
+<p><i>Lucky for you</i>, conjurer, the Telvanni are the worst, so I&#8217;m going to catalyze your Bonekin&#8217;s liminal transition and save your fleshy sacrum. But if I help you, <i>you</i> first have to do something for <i>me</i>&#8230;</td>
+<td valign="top">Ah, right. The covetable <i>Atronach</i>. I had hopes that a top-quality silence scroll could slip past your resistance, but looks like fortune was on <i>your</i> side for once. </p>
+<p>You hear the clicking of a tube against a perfume bottle.</p>
+<p>No matter. Relying on luck is <i>unbefitting</i> for someone of my stature, and predicaments like this are one of many reasons I&#8217;ve come to prefer an <i>alchemical</i> solution to these quarrels. </p>
+<p>But be <i>proud</i>, Miss Managan: I&#8217;ve brought down my last bottle of <i>pure</i> Bug Musk for this occasion, not the watered-down mess from last time.
+</td>
+</tr>
+</table>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2081.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">We&#8217;ve been trying to reach out to the 16-24 demographic, who are overall more interested in the Succubi-class models offered by our competitors. As a conjurer presumed in that age bracket who took an interest in CairnCorp<sup>®</sup>, could you rate the following three prospective new slogans on a scale of 1-10?</p>
+<p>&#8220;A skele-ton of skele-fun.&#8221;</p>
+<p>&#8220;Good conjuration &#8211; we ain&#8217;t ribbing.&#8221;</p>
+<p>&#8220;Gladiatorial calcium.&#8221;
+</td>
+<td valign="top">You can make out two brief hisses as Sigrid sprays the Bug Musk on herself. </p>
+<p>In fact, let&#8217;s make this fun, Miss Managan. You&#8217;ll finally tell me <i>everything</i> I want to know, or I&#8217;ll make sure you <i>die trying</i>.
+</td>
+</tr>
+</table>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2018/07/katia-hurrystall/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Katia: Greet friend</title>
+		<link>https://www.prequeladventure.com/2018/06/katia-greet-friend/</link>
+		<comments>https://www.prequeladventure.com/2018/06/katia-greet-friend/#respond</comments>
+		<pubDate>Sat, 16 Jun 2018 00:54:34 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">http://www.prequeladventure.com/?p=14406</guid>
+		<description><![CDATA[Well, you&#8217;re definitely seeing something. And unlike the vague magic shapes you&#8217;ve been sensing up until now, you actually are seeing something. You&#8217;re just not sure what it is. Reaching your magic through the sky until you see skeletons should probably make you uneasy, but for some reason, it just&#8230; doesn&#8217;t. In fact, you feel <a href='//www.prequeladventure.com/2018/06/katia-greet-friend/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>CryoJester wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Did&#8230; did it work?</i></left></td></tr></table></br></center>
+<p>Well, you&#8217;re definitely seeing <i>something</i>. And unlike the vague magic shapes you&#8217;ve been sensing up until now, you actually are <i>seeing</i> something. You&#8217;re just not sure what it <i>is</i>.</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2067.gif" alt="" /></center>
+<p>Reaching your magic through the sky until you see skeletons should probably make you uneasy, but for some reason, it just&#8230; doesn&#8217;t. In fact, you feel almost <i>happy</i>, like an old friend just came through the door and you want to give them a hug. You feel <i>blessed</i> that this friend chose to summon with CairnCorp<sup>®</sup>, and are wondering how you can best serve them today. </p>
+<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Voice wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Hello? Skeleton friend? Can you hear us?</i></left></td></tr></table></br></center>
+<p>You quietly ask the skeleton if it can hear you.</p>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2068.gif" alt="" /></center>
+<p>What was that, Sigrid asks?</p>
+<p>While she speaks, you take note that you can hear yourself loud and clear, even in the noisy Chapel of the Arts™ auditorium. Which is weird, because you were never wondering if you could hear <i>yourself</i>, nor are you in an auditorium. If there&#8217;s interference with the connection, you realize, you could always nullify the tesseract and reestablish the leyline through a static magetallow array. You don&#8217;t know what any of these things mean or why you are thinking them. These&#8230; aren&#8217;t <i>your</i> thoughts.</p>
+<p>Can you repeat that, Sigrid asks again, with the slightest note of frustration.</p>
+<p>I was, ah, just wondering if you could hear me, you say, pushing the intrusive thoughts to the back of your mind. You lie and tell Sigrid that you&#8217;ve been very quietly responding to all the stuff she&#8217;s been saying for the last ten minutes, but it <i>might</i> have been too quiet for her to hear. </p>
+<p>You can feel the foreign thoughts wondering if you&#8217;re still there, or if the liminal connection has degraded. Hold on, you think to yourself, struggling to untangle your own thoughts and senses from these new ones. </p>
+<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>DavidHedrick wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Introduce yourself and ask that being if they would help you!</i></left></td></tr></table></br></center>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2069.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">Wow. Alright. You think you&#8217;ve got this now. </p>
+<p>As an introduction, you quickly think about yourself: an amateur mage in a desperate situation, hoping to maybe reach out to some otherworldly help. You know that&#8217;s a thing lots of mages do, summoning animals and weapons from other worlds. Ideally, you&#8217;d prefer help from a neutral entity rather than some kind of evil demon god. You retroactively realize that might be offensive if the skeleton is an evil demon god. You think about how potentially sorry you are for thinking that.</p>
+<p>Luckily, the skeleton&#8217;s positive feelings only grow stronger. It realizes that you&#8217;ve connected to the <i>perfect plane</i>! CairnCorp<sup>®</sup> is a privately-owned corporation providing a safe<sup>†</sup>, approachable alternative to daedric summoning. The glorious Makers<sup>®</sup> believe that conjuration doesn&#8217;t have to be about whisking unexpecting beasts away from their home plane &#8211; it can be a friendly business, building strong customer relationships and offering exciting paid upgrade plans<sup>‡</sup>. &#8220;Summoning with a smile, not a scowl&#8221;, we are willed to say.
+</td>
+<td valign="top">Sigrid sighs. You hear the scoot of a chair, and her magic form begins to move. </p>
+<p>I strive to be an accommodating person, Katia. I think everyone should do what they can to get along with others, and a big part of that is letting them take the lead so you can both discover where your shared interests lie. </p>
+<p>But let&#8217;s be honest: friendship isn&#8217;t your forte. In fact, sometimes, it&#8217;s like you don&#8217;t <i>want</i> to connect with others. Right now, it feels almost like you&#8217;re trying to <i>waste my time</i> for the crime of wanting you to like me. </p>
+<p>I don&#8217;t think you&#8217;re a bad person, Katia, but it <i>hurts</i> that you could come to hate me so quickly without even sharing how the feelings arose. Put simply, I fear I may hurt someone else the same way I hurt you, and want to know how to avoid it so I can better hold onto you and my other friends in the future. I want to <i>be better</i>, but it&#8217;s like you don&#8217;t care and just want to waste my time.</p>
+<p>And I think you <i>know</i> that you&#8217;re just wasting time.</td>
+</tr>
+</table>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2070.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">Okay, you think, that&#8217;s kind of creepy in several places, but probably the innocent kind of creepy. So if you&#8217;re understanding right: whoever you are telepathically communicating with right now, they can help you? You concentrate on the fact that you&#8217;re blinded and trapped in a room with an insane, evil sorceress. Best-case scenario, you&#8217;d like to tie her up and stuff her in a crate. Realistic-case scenario, you&#8217;d like to get out of here with most of your organs. Like, the important ones.</p>
+<p>The skeleton considers CairnCorp<sup>®</sup>&#8216;s many enticing aid options that you may find beneficial. For general protection, the Makers<sup>®</sup> in their benevolence offer several convenient models of skeletal minions pre-equipped with armor and weaponry in guaranteed optimal condition<sup>‡†</sup>. If you&#8217;re looking for mystic aid, you can sign a liability waiver for access to the Makers<sup>®</sup>&#8216; holiest phantasms and ghasts. If your blindness is a preexisting condition, CairnCorp<sup>®</sup> even offers the option to reassign any conjuration code to a cute and convenient seeing-eyesocket dog. No matter your need, CairnCorp<sup>®</sup> is exalted to provide.</td>
+<td valign="top">It&#8217;s kind of hard to follow two things at once, but you think you get the general idea and mutter something about how you just want other friends and that&#8217;s okay. </p>
+<p>Do you really, Katia? Correct me if I&#8217;m wrong, but you&#8217;re not exactly overwhelmed with people who care for you. You all but said as much when we first met, and were adorably head-over-heels when we clicked. Again, don&#8217;t take this wrong, but you could probably spend the next <i>week</i> down here wasting my time with meandering stories and nobody would go wondering where you disappeared to.</p>
+<p>There&#8217;s an eerie slowness to the final bit, giving it clear emphasis. </p>
+<p>And &#8211; while I hate to think it &#8211; I worry sometimes that you could just disappear off the face of the world and you&#8217;d have no close friends to miss you. That&#8217;s not a way anyone should live, Katia. I want to <i>help you</i>. But if I&#8217;m going to try to be your friend, you have to at least <i>try</i> to reciprocate. Perhaps care a little more about my interests and problems, and less about yourself?</td>
+</tr>
+</table>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2071.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">That&#8217;s good, you think, because things are kind of heating up and it looks like you need a hand <i>right now</i>. You express a quick concern that cluelessly consorting with otherworldly forces like this might make the situation worse, but the skeleton solemnly notes that CairnCorp<sup>®</sup> thrives on repeat business and word-of-mouth advertising. Conjuration should be an enjoyable and convenient experience, not an uphill battle to keep a ravenous beast under your control. The excellent customer service bound within us by righteous prayer is one of the many reasons the Soul Cairn<sup>®</sup> currently places in the top three conjuration planes by user count<sup>[1][2]</sup>. </p>
+<p>Something about this still seems distressingly convenient. Like, if summoning perfectly subservient skeleton-people were <i>this easy</i>, everyone would do it. There has to be some catch. But, you&#8217;re running out of time here, so whatever the horrible drawback is, you&#8217;ll just have to deal with it later. You think you&#8217;re ready; please&#8230; send help, or whatever they do.</td>
+<td valign="top">Another shuffle of fabric. A hollow click like something touching against a small bottle. </p>
+<p>Friendship isn&#8217;t about &#8220;me&#8221;, it&#8217;s about &#8220;we&#8221;. Everything you do, Katia, it&#8217;s always so focused on getting things from people, or improving your own standing. But you have to understand, these boons come on their own if you&#8217;re simply nice to others and show an interest in <i>their</i> interests. And of everyone you could possibly practice on, my interest is simply making people like you as happy as possible. All you have to do is help me understand <i>how</i> you came to hate me so vehemently. Something you accidentally did managed to nigh-instantly sour you to one of your best friends. </p>
+<p>Look at where you are right now. Or I should say, look <i>metaphorically</i>, what with you pulling Tavia&#8217;s old invisibility cloak off like that. All your life, you&#8217;ve been doing things <i>your way</i>, thinking only of yourself and not the collective good of everyone around you. And look where it&#8217;s gotten you: all alone, without <i>a single friend to help you when you are in trouble</i>.</td>
+</tr>
+</table>
+<center><img style="margin-bottom:30px;margin-top:20px" src="/this/story2072.gif" alt="" /></center>
+<table>
+<col width=50%>
+<col width=50%>
+<tr>
+<td valign="top">Excellent! Now, do you have an existing account with us, or do you need to fill out the registration paperwork?</td>
+<td valign="top">Maybe it&#8217;s time we play things my way.</td>
+</tr>
+</table>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2018/06/katia-greet-friend/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>==&gt;</title>
+		<link>https://www.prequeladventure.com/2018/06/14403/</link>
+		<comments>https://www.prequeladventure.com/2018/06/14403/#respond</comments>
+		<pubDate>Sat, 16 Jun 2018 00:52:34 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">http://www.prequeladventure.com/?p=14403</guid>
+		<description><![CDATA[Additional resource credits: Caliber &#8211; fade effect AMKitsune &#8211; animation]]></description>
+				<content:encoded><![CDATA[<div id="fade_start" style="position:absolute;top:-500px;"></div>
+<div id="fade_max" style="position:absolute;top:10px;"></div>
+<style>		div.foreground {
+            overflow: hidden;
+            position: fixed;
+            transform-origin: center;
+            -webkit-transform-origin: center center;
+            -ms-transform-origin: center center;
+            pointer-events: none;
+            background: #261C4B;
+        }
+div.everything {
+            position: relative;
+            z-index:200
+        }
+</style>
+<div class="foreground colourOverlay" style="width: 9999px; height: 4381px; top: -575px; left: -500px; opacity: 0.75;"></div>
+<p><script>
+/*
+jQuery( function(){
+			//sidebar thing
+			jQuery(".suf-widget").css({
+		border: "1px solid #4c4568",
+		background: "#5c5578",
+			});
+	jQuery(".dbx-handle").css("border-bottom-color", "#4c4568");
+	jQuery("li").css("background-image","url(/this/shhsecrets/bullet_dark.png)")
+	jQuery(".suf-widget").children().css({
+		color: "#1c1548",
+			});
+	jQuery(".dbx-content").find("a").css({
+		color: "#332a4f",
+			});
+	setTimeout(function(){jQuery(".catstore-merchant").find("img").attr({src:"/this/shhsecrets/side_katia_dark.png",})},300)
+jQuery(".catstore-booth").find("img").attr({src:"/this/shhsecrets/side_store_dark.png",});
+			jQuery("#right-header-widgets").css("display", "none")
+			//end sidebar thing
+});
+*/
+			jQuery(window).scroll(function () {
+                var max_alpha = .75;
+                var foreground_height_tweak = 4000;
+                var foreground = jQuery("div.foreground");
+                var fade_start = jQuery("#fade_start").offset().top;
+                var fade_max = jQuery("#fade_max").offset().top;
+                var fade_end = jQuery("#fade_end").offset().top;
+                foreground.css('height', foreground_height_tweak + fade_end);
+                foreground.css('width', 9999);
+                if(window.scrollY > fade_start && window.scrollY < fade_max){
+                    if(window.scrollY < fade_max){
+                        // ~math~
+                        dynamic_opacity = (1 - (fade_max - window.scrollY) / (fade_max - fade_start)) * max_alpha;
+                        foreground.css('opacity', 0.75);
+                    }
+                }
+                else if(window.scrollY > fade_max && window.scrollY < fade_end){
+                    foreground.css('opacity', max_alpha);
+                }
+                else if(window.scrollY > fade_end){
+                // uhhhhhhh
+                        dynamic_opacity = (1 + (fade_end - window.scrollY) / (fade_max - fade_start)) * max_alpha;
+                        foreground.css('opacity', dynamic_opacity);
+                    }
+                else {
+                    foreground.css('opacity', dynamic_opacity);
+                }
+            });
+</script></p>
+<div class="everything aboveOverlay"><center><img style="margin-bottom:30px;margin-top:20px;z-index:140" src="/this/story2061.gif" alt="" /></center></p>
+<p><center><img style="margin-bottom:30px;margin-top:20px;z-index:140" src="/this/story2062.gif" alt="" /></center></p>
+<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>VcSaJen wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Remember the conjuration code! It’s 8068480098.</i></left></td></tr></table></br></center>
+<p><center><img style="margin-bottom:30px;margin-top:20px;z-index:140" src="/this/story2063.gif" alt="" /></center></p>
+<div id="fade_end"></div>
+<p><center><img style="margin-bottom:30px;margin-top:20px;z-index:140" src="/this/story2064.gif" alt="" /></center></p>
+<p><center><img style="margin-bottom:30px;margin-top:20px;z-index:140" src="/this/story2065.gif" alt="" /></center></p>
+<p><center><img style="margin-bottom:30px;margin-top:20px;z-index:140" src="/this/story2066.gif" alt="" /></center></div>
+<p style="text-align:right;font-size:x-small;"><b>Additional resource credits:</b><br />
+Caliber &#8211; fade effect<br />
+AMKitsune &#8211; animation</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2018/06/14403/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>==&gt;</title>
+		<link>https://www.prequeladventure.com/2018/05/14270/</link>
+		<comments>https://www.prequeladventure.com/2018/05/14270/#respond</comments>
+		<pubDate>Tue, 22 May 2018 08:16:02 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">http://www.prequeladventure.com/?p=14270</guid>
+		<description><![CDATA[VcSaJen wrote: Remember the conjuration code! It&#8217;s 8068480098. &#62; Katia: Greet friend SarosInfinity wrote: By assuming the possibility of another layer of paper, it means you sort of know that there’s gotta be something hidden you’re not sensing; though that certain something might be beyond your reach. UNLESS, you think like a witch-hunter. Left, right, <a href='//www.prequeladventure.com/2018/05/14270/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<div class="foreground colourOverlay" style="pointer-events:none;width: 9999px; height: 4381px; top: -575px; left: -500px; opacity: 0.75;"></div>
+<div class="aboveOverlay" style="position:relative;">
+<div id="fade_start" style="position:absolute;top:-500px;"></div>
+<div id="fade_max" style="position:absolute;top:10px;"></div>
+<div id="fade_end" style="position:absolute;top:2900px;"></div>
+<style>
+    div.bigimg {
+        position: relative;
+        margin: auto;
+        width: 720px;
+        height: 3090px;
+        z-index: 1;
+		top: -44px;
+    }
+    div.text0 {
+        position: absolute;
+        top: -120px;
+        left: 30px;
+        width: 750px;
+        z-index: 5;</p>
+<p>    }
+    div.text1 {
+        position: absolute;
+        top: 400px;
+        left: -30px;
+        width: 600px;
+        z-index: 5;
+    }
+    div.text2 {
+        position: absolute;
+        top: 1190px;
+        left: 390px;
+        width: 600px;
+        z-index: 5;
+    }
+    div.text3 {
+        position: absolute;
+        top: 1700px;
+        left: 300px;
+        width: 550px;
+        z-index: 5;
+    }
+    div.text4 {
+        position: absolute;
+        top: 1885px;
+        left: 220px;
+        width: 400px;
+        z-index: 5;
+    }
+    div.text5 {
+        position: absolute;
+        top: 3000px;
+        left: 380px;
+        width: 400px;
+        z-index: 5;
+    }
+    div.squiggle {
+        position: absolute;
+        top: -354px;
+        left: -200px;
+        width: 1200px;
+        z-index: 5;
+        pointer-events: none;
+    }
+    div.entry, div.post, #content {
+        overflow: visible !important;
+    }
+</style>
+<style>
+html, body {
+max-width: 100%;
+overflow-x: hidden;
+}
+body{
+}
+.imnotontop{
+z-index: 3
+}
+.belough{
+z-index: -1;
+background: #1c153800 repeat;
+overflow: hidden;
+left: 0; 
+right: 0; 
+margin-left: auto; 
+margin-right: auto; 
+}
+div.starfield {
+position: fixed;
+left: 0;
+top: 0;
+pointer-events: none;
+}
+div.starfield2 {
+position: fixed;
+left: 0;
+top: 0;
+pointer-events: none;
+}
+div.starspot {
+position: absolute;
+background-image: url("/this/twinkle.png");
+width: 3px;
+height: 3px;
+overflow: hidden;
+pointer-events: none;
+display: none;
+}
+div.starspot2 {
+position: absolute;
+background-image: url("/this/twinkle.png");
+width: 3px;
+height: 3px;
+overflow: hidden;
+pointer-events: none;
+display: none;
+}
+.planet {
+-webkit-transition: all .12s ease-out;
+transition: all .12s ease-out;
+transition: opacity .82s ease-out;
+-webkit-filter: brightness(100%);
+filter: brightness(100%);
+opacity: 0;
+}
+.planet:hover{
+transition: all .42s ease-out;
+opacity: 1;
+-webkit-filter: brightness(150%);
+filter: brightness(150%);
+}
+.planet:active{
+transition: all .42s ease-out;
+opacity: 1;
+-webkit-filter: brightness(150%);
+filter: brightness(150%);
+}
+.keypad{
+z-index:-5;
+transition: all .12s ease-out;
+display:unset;
+opacity: 0;
+}
+.planet:active + .keypad {
+transition: all .42s ease-out;
+display:unset;
+opacity: 1;
+}
+#chk {
+    display: none;
+}
+#chk:checked ~ .keypad {
+z-index:4;
+opacity: 1;
+}
+#chk:checked ~ .keypadbuttons {
+z-index:3;
+opacity: 1;
+}
+.planetfadein{
+transition: opacity .42s ease-out;
+opacity: 1; !important;
+}
+.rotdiv{
+transition: opacity .12s ease-out;
+opacity: 0;
+pointer-events:none;
+}
+.bgfadein{
+transition: opacity .22s ease-out;
+opacity: 1; !important
+}
+.bgfadeout{
+transition: opacity .12s ease-out;
+opacity: 0; !important
+}
+@-webkit-keyframes wrong {
+    0% {left: 98px;}
+    24% {left: 108px;}
+    56% {left: 93px;}
+    100% {left: 98px;}
+}
+@keyframes wrong {
+    0% {left: 98px;}
+    24% {left: 108px;}
+    56% {left: 93px;}
+    100% {left: 98px;}
+}
+@-webkit-keyframes wrong2 {
+    0% {left: 104px;}
+    24% {left: 114px;}
+    56% {left: 99px;}
+    100% {left: 104px;}
+}
+@keyframes wrong2 {
+    0% {left: 104px;}
+    24% {left: 114px;}
+    56% {left: 99px;}
+    100% {left: 104px;}
+}
+@-webkit-keyframes num {
+    0% {opacity: 0.3;}
+    100% {opacity: 0;}
+}
+@keyframes num {
+    0% {opacity: 0.3;}
+    100% {opacity: 0;}
+}
+.keypadm{
+-webkit-animation: wrong 0.4s 1 !important;
+animation: wrong 0.4s ease 1 !important;
+}
+.keypadm2{
+-webkit-animation: wrong2 0.4s 1 !important;
+animation: wrong2 0.4s ease 1 !important;
+}
+.num{
+-webkit-animation: num 0.1s 1;
+animation: num 0.1s ease 1;
+}
+.number0{
+opacity: 0
+}
+.number1{
+opacity: 0
+}
+.number2{
+opacity: 0
+}
+.number3{
+opacity: 0
+}
+.number4{
+opacity: 0
+}
+.number5{
+opacity: 0
+}
+.number6{
+opacity: 0
+}
+.number7{
+opacity: 0
+}
+.number8{
+opacity: 0
+}
+.number9{
+opacity: 0
+}
+@-webkit-keyframes cont {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+@keyframes cont {
+0% {transform: scale(0);}
+20% {transform: scale(.2);}
+50% {transform: scale(.15);}
+60% {transform: scale(1.05);}
+70% {transform: scale(1);}
+}
+.contentbox{
+z-index:-10;
+transform: scale(0)
+}
+.contentboxa{
+z-index:99;
+-webkit-animation: cont 1s ease 1;
+animation: cont 1s ease 1;
+}
+        div.referencebox {
+            height: 450px;
+            max-width: 600px;
+            min-width: 200px;
+            overflow: visible;
+            margin: 20px auto;
+            position: relative;
+        }
+        div.foreground {
+            overflow: hidden;
+            position: fixed;
+            transform-origin: center;
+            -webkit-transform-origin: center center;
+            -ms-transform-origin: center center;
+            pointer-events: none;
+            background: #261C4B;
+            opacity: 0.75;
+        }
+        div.entry,div.post,#content { overflow: visible !important; }
+        div.referencebox img { max-width: inherit; }</p>
+</style>
+<div class="starfield2" style="z-index:0;"><img style="top: -501px;position: fixed;" src="/this/shhsecrets/space_whitestars.png"/></div>
+<div style="width:1100px;height:500px;overflow:hidden;margin: 0px auto;padding-top: 0px;top: 3300px;position: absolute;left: -550px;right: -450px;display:none;" class="contentboxb">
+<input type="checkbox" id="chk"/><br />
+<label for="chk"><img src="/this/shhsecrets/space_planet.png" id="planetkp" class="planet" style="z-index:-3;margin-left:auto;margin-right:auto;left:400px;margin-top:0px;position:absolute;width:400px;"></label></p>
+<div style="margin-left:385px;position:absolute;left:0px;right:0;width:1px;height:1px;z-index:-1;" class="keypadbuttons">
+<div height="100" width="100" style="overflow: visible;">
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 191px;position: absolute;top: 80px;" cx="214" cy="104"  fill="white" class="number8"></img><br />
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 191px;position: absolute;top: 128px;" cx="214" cy="153"  fill="white" class="number5"></img><br />
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 191px;position: absolute;top: 177px;" cx="214" cy="201"  fill="white" class="number2"></img><br />
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 240px;position: absolute;top: 80px;" cx="262" cy="104"  fill="white" class="number9"></img><br />
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 240px;position: absolute;top: 128px;" cx="262" cy="153"  fill="white" class="number6"></img><br />
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 240px;position: absolute;top: 177px;" cx="262" cy="201"  fill="white" class="number3"></img><br />
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 191px;position: absolute;top: 226px;" cx="214" cy="251"  fill="white" class="number0"></img><br />
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 143px;position: absolute;top: 80px;" cx="165" cy="104"  fill="white" class="number7"></img><br />
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 143px;position: absolute;top: 128px;" cx="165" cy="153"  fill="white" class="number4"></img><br />
+  <img src="/this/shhsecrets/space_circle.png" style="width: 48px;height: 48px;max-width: 11000%;left: 143px;position: absolute;top: 177px;" cx="165" cy="201"  fill="white" class="number1"></img>
+  </div>
+</div>
+<p><img src="/this/shhsecrets/space_numberpad.png" class="keypad" style="margin-left:auto;margin-right:auto;position:absolute;left:98px;right:0;width:999px;height:394px;max-width: 1000%;"><br />
+</img><br />
+</img></p>
+<p style="transition: all .12s ease-out;opacity:0;top: 400px;position:absolute;z-index:4;left: 29%;font: bold 38px/1.2 monospace, sans-serif;display:unset;" class="hyperlink">
+</p>
+<table class="contribution hidecont" style="width: 51%; background-color:#B29C6E; border-collapse: separate;opacity: 0;top:437px;margin-left: 29%;position:absolute;transition: opacity .82s ease-out;">
+<tbody>
+<tr>
+<td style="padding:1px;font-size:small" bgcolor="#B29C6E"><center><b>VcSaJen	wrote:</b></center></td>
+</tr>
+<tr>
+<td style="padding:5px;font-size:small" bgcolor="#EADCBF"><left><i>Remember the conjuration code! It&#8217;s 8068480098.	</i></left></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="width:600px;height: 700px;overflow:hidden;margin: auto auto;padding-top: 0;top: 3300px;position: absolute;left: -450px;right: -450px;overflow-y: visible;" class="contentbox">
+<p class="crappy-blue-link">
+<p style="transition: all .82s ease-out;opacity:0;top: 543px;position:absolute;z-index:4;left: 0%;font: bold 38px/1.2 monospace, sans-serif;" class="hyperlink">&gt;</p>
+<p><a href="//www.prequeladventure.com/2018/06/katia-greet-friend/" class="hyperlink" style="transition: all .82s ease-out;opacity:0;color: blue;text-decoration: underline;font: bold 38px/1.2 monospace, sans-serif;top: 546px;position:absolute;z-index:4;left: 7%;font-size: 27pt;" rel="next">Katia: Greet friend</a></p>
+<p><img src="/this/shhsecrets/space_skeletontheatre.gif" class="actualcontent" id="actualcontent" style="font: bold 38px/1.2 monospace, sans-serif;position: absolute; left: 0px; max-width: 2000%;" title="">
+</div>
+<div class="rotdiv" style="transform: rotate(20deg);position:fixed;left:0;top: -860px;z-index:-1;"><img src="/this/shhsecrets/space_violetstars.png"/></div>
+<div class="belough2" style="z-index:3;padding-top:00px;margin-left:auto;overflow:hidden;margin-right:auto;left:0;right:0;position:absolute;width:999px;height:419px;clip: rect(0, auto, auto, 0);transform-origin: 50% 50%;pointer-events:none;">
+</div>
+<div align="center" style="left:-50%;right:-50%;position:absolute;top:1000px;width: 600px;height:500px;overflow:hidden;clip: rect(0, auto, auto, 0);z-index:2;" class="belough">
+<div class="rotdiv" style="transform: rotate(20deg);position:fixed;left:0;top: -860px;z-index:2;"><img src="/this/shhsecrets/space_violetstars.png"/></div>
+<div class="starfield" style="position:fixed;overflow:visible;height:100%;width:1px;left: -6%;"><img style="top: -501px;position: fixed;" src="/this/shhsecrets/space_violetstars.png"/></div>
+</div>
+<div style="position:absolute;left: 50%;top:2720px;width:600px;height:600px;" class="imnotontop">
+<img class="bgimg" src="" style="left:-600px;right:0;margin-left:auto;margin-right:auto;position:absolute;pointer-events:none"/></p>
+<div style="margin-left:-183px;margin-top: 50px;position: absolute;transform-origin: 50% 50%;">
+<img src="/this/shhsecrets/space_star.png" id="knob0" class="knob0" style="overflow: visible; touch-action: none; position: relative;cursor: move; touch-action: none; user-select: none;">
+</div>
+<div style="margin-left:-40px;margin-top: 0px;position: absolute;">
+<img src="/this/shhsecrets/space_star2.png" id="knob1" class="knob1" style="overflow: visible; touch-action: none; position: relative;cursor: move; touch-action: none; user-select: none;"><br />
+
+</div>
+<div style="margin-left:-272px;margin-top: 70px;position: absolute;">
+<img src="/this/shhsecrets/space_star.png" id="knob2" class="knob2" style="overflow: visible; touch-action: none; position: relative;cursor: move; touch-action: none; user-select: none;">
+</div>
+<div style="margin-left:43px;margin-top: -10px;position: absolute;">
+<img src="/this/shhsecrets/space_star3.png" id="knob3" class="knob3" style="overflow: visible; touch-action: none; position: relative;cursor: move; touch-action: none; user-select: none;"><br />
+
+</div>
+<div style="margin-left:142px;margin-top: 70px;position: absolute;">
+<img src="/this/shhsecrets/space_star2.png" id="knob4" class="knob4" style="overflow: visible; touch-action: none; position: relative;cursor: move; touch-action: none; user-select: none;">
+</div>
+<div style="margin-left:231px;margin-top: 70px;position: absolute;">
+<img src="/this/shhsecrets/space_star.png" id="knob5" class="knob5" style="overflow: visible; touch-action: none; position: relative;cursor: move; touch-action: none; user-select: none;">
+</div>
+</div>
+<p><script src="/this/shhsecrets/jquery.js"></script><script src="/this/shhsecrets/TweenMax.js"></script><script src="/this/shhsecrets/Draggable.js"></script><script src="/this/shhsecrets/ThrowPropsPlugin.js"></script><script src="/this/shhsecrets/conjurationcodesnew.js"></script></p>
+<div class="bigimg">
+<div class="text0"><center></p>
+<table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate; pointer-events: none;">
+<tbody>
+<tr>
+<td style="padding:1px;font-size:small" bgcolor="#B29C6E"><center><b>SarosInfinity wrote:</b></center></td>
+</tr>
+<tr>
+<td style="padding:5px;font-size:small" bgcolor="#EADCBF"><left><i>By assuming the possibility of another layer of paper, it means you sort of know that there’s gotta be something hidden you’re not sensing; though that certain something might be beyond your reach. UNLESS, you think like a witch-hunter. Left, right, up, down? Pshhh, 2 dimensional. Try going inwards or outwards instead.</i></left></td>
+</tr>
+</tbody>
+</table>
+<p></center> </p>
+<p><span style="color: rgba(249,249,249,1);">Yeah, that’s… that&#8217;s just called moving in three dimensions. It’s not exactly a witchhunter-tier accomplishment. You&#8217;ve actually been doing it a lot out here, you just don&#8217;t have a second mind&#8217;s eye for depth perception.</span></p>
+<p><span style="color: rgba(249,249,249,1);">The entire point of the “separate sheet of paper” analogy was that each “sheet” represented a whole three-dimensional <i>universe</i>. If you&#8217;re right, it doesn&#8217;t matter how far inward, outward, up, down, left or right you reach your little magicka line &#8211; you’d never reach across into the &#8220;next sheet&#8221; because it’s not <i>in</i> any of those directions. Rather than literally being on top of eachother like a stack of paper, the planes people summon help from would be lined up in some <i>fourth</i> dimension. And unlike a needle poking through papers, you can’t imagine what something reaching perpendicularly through multiple <i>universes</i> would even look like.</span></p>
+</div>
+<div class="text1"><center></p>
+<table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;">
+<tbody>
+<tr>
+<td style="padding:1px;font-size:small" bgcolor="#B29C6E"><center><b>Felaeris wrote:</b></center></td>
+</tr>
+<tr>
+<td style="padding:5px;font-size:small" bgcolor="#EADCBF"><left><i>You said they’re supposed to be holes in the Aetherius, right? IF we’re traveling on a flat sheet (in two dimensions) and falling through a ‘hole’ carries us to a third, a dimension perpendicular to the sheet, wouldn’t ‘falling’ through a ‘ball’ or ‘3rd dimensional hole’ send us falling through a fourth dimension. A plane orthogonal to the 3 dimensions we know? </i></left></td>
+</tr>
+</tbody>
+</table>
+<p></center> <center></p>
+<table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;">
+<tbody>
+<tr>
+<td style="padding:1px;font-size:small" bgcolor="#B29C6E"><center><b>HaphazardAdventurer wrote:</b></center></td>
+</tr>
+<tr>
+<td style="padding:5px;font-size:small" bgcolor="#EADCBF"><left><i>Imagine a world that exists on a flat piece of paper with a population of little 2 dimensional beings that can only perceve and traverse the flat plane of the paper. Now if you, as a 3 dimensional being, were to poke a hole through that paper, these beings would find an area of their world that, as far as their understanding of the fabric of reality allows, simply doesn’t exist.</i></left></td>
+</tr>
+</tbody>
+</table>
+<p></center> </p>
+<p><span style="color: rgba(249,249,249,1);">Unless…</span></p>
+<p><span style="color: rgba(249,249,249,1);">You think back to that thing you were always told, about the stars being “holes to Aetherius”. If the night sky were a giant black ceiling like you thought when you were little, then a hole poked through it would just be a circle. But… if someone cut a round hole in <i>three dimensional space</i>, it wouldn’t be a <i>circle</i> – it would be a <i>sphere</i>. A sphere-shaped hole leading directly in the <i>fourth dimension</i>!</span></p>
+<p><span style="color: rgba(249,249,249,1);">Of course, when you tried to slam your little magicka-line into the stars, it just bounced off the edges. This <i>could</i> mean the “holes to Aetherius” story is bullshit and you’re overthinking a children’s fairytale, <i>or</i> it could just mean that the hole is closed off on its edges. Given that you can move your magicka-line freely around the <i>outside</i> of the star, that really makes it less of a “hole” and more of a “tube”. And if the star is just a cross-section of a weird tube leading across multiple planes, maybe you could…</span></p>
+</div>
+<div class="text2"><center></p>
+<table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;">
+<tbody>
+<tr>
+<td style="padding:1px;font-size:small" bgcolor="#B29C6E"><center><b>JJR wrote:</b></center></td>
+</tr>
+<tr>
+<td style="padding:5px;font-size:small" bgcolor="#EADCBF"><left><i>Remember that book you panic flipped through? One of the pages was about creating a so called Standard Magickal Star Tesseract.</i></left></td>
+</tr>
+</tbody>
+</table>
+<p></center> <center></p>
+<table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;">
+<tbody>
+<tr>
+<td style="padding:1px;font-size:small" bgcolor="#B29C6E"><center><b>Cheese wrote:</b></center></td>
+</tr>
+<tr>
+<td style="padding:5px;font-size:small" bgcolor="#EADCBF"><left><i>Orient to the warrior head star, form the tesseract. Conjuration code: 8068480098</i></left></td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<p><span style="color: rgba(249,249,249,1);">Fuck, that’s right, the book! Just before you went blind, you were <i>looking</i> at a <a href="/this/story1992.gif" target="_blank" style="color:rgba(0,255,255,1)">magic book</a> that mentioned otherworldly denizens, and there was a whole <i>section</i> in it talking about <i>stars</i>! You frantically try to recall details of what you saw. If your ridiculous and over-complicated idea about stars being tubes reaching through multiple planes of existence is right, you might be able to <i>follow those tubes</i>. If you knew roughly where the next step along a four-dimensional tube was going to be, following it might be as simple as, like, searching the correct spot in three-dimensional space. You remember the book had an almost map-like diagram of some constellations with six stars labeled, and if you could remember what&#8230;</span></p>
+</div>
+<div class="text3"><span style="color: rgba(249,249,249,1);">The thought dwindles out as you feel a sudden silence in the air. Sigrid has stopped talking. Your brief reprieve to look for a magical solution is almost over. Moving fast, you drive your magicka-line toward the nearest thing that looks sort of like a constellation from the book.</span></div>
+<div class="text4"><span style="color: rgba(249,249,249,1);">You have no idea how reaching to another plane works, what this sort of magic is supposed to look like, or if you&#8217;re even on the right track with your dumb idea about planes and tubes. To make matters worse, you probably have <i>seconds left</i> before your silence seems weird and Sigrid knows something is up. Taking a deep breath, you close your already blind eyes, you try to concentrate on all six stars at once, </span><span style="color: rgba(249,249,249,1); text-shadow: 1px 1px 0px rgba(249,249,249,0.5);"> and</span><span style="color: rgba(249,249,249,1); text-shadow: 1px 1px 0px rgba(249,249,249,0.5), -1px -1px 0px rgba(249,249,249,0.5);"> you reach.</span></div>
+<div class="text5">
+<p style="text-align: right; font-size: x-small;"><b>Additional credits:<br />
+</b>Caliber, AMKitsune</p>
+</div>
+<div class="squiggle"><img src="/this/shhsecrets/space_noodle.png"></div>
+</div>
+<p></br>
+</div 
+
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2018/05/14270/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Katia: Confront barrier</title>
+		<link>https://www.prequeladventure.com/2018/04/katia-confront-barrier/</link>
+		<comments>https://www.prequeladventure.com/2018/04/katia-confront-barrier/#respond</comments>
+		<pubDate>Thu, 05 Apr 2018 09:57:46 +0000</pubDate>
+		<dc:creator><![CDATA[Kazerad]]></dc:creator>
+				<category><![CDATA[Archive]]></category>
+
+		<guid isPermaLink="false">http://www.prequeladventure.com/?p=14092</guid>
+		<description><![CDATA[Let's&#160;&#160;find out. You've always heard they are "holes in the night sky to Aetherius", though these definitely seem more ball-like than hole-like. And while it sounds good in theory, vigorously groping the ball with your magicka-squiggle apparently doesn't siphon power out of it. You try out your teleportation idea from earlier, imagining a tunnel along <a href='//www.prequeladventure.com/2018/04/katia-confront-barrier/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<style>
+    div.bigimg {
+        position: relative;
+        margin: auto;
+        width: 720px;
+        height: 17000px;
+        z-index: 5;exper
+    }
+    div.text-1 {
+        position: absolute;
+        top: 1400px;
+        left: 323px;
+        width: 400px;
+        z-index: 5;
+    }
+    div.text0 {
+        position: absolute;
+        top: 2600px;
+        left: 470px;
+        width: 400px;
+        z-index: 5;
+    }
+    div.text1 {
+        position: absolute;
+        top: 6000px;
+        left: -50px;
+        width: 400px;
+        z-index: 5;
+    }
+    div.text2 {
+        position: absolute;
+        top: 7325px;
+        left: 530px;
+        width: 400px;
+        z-index: -1;
+    }
+    div.text3 {
+        position: absolute;
+        top: 7700px;
+        left: 100px;
+        width: 600px;
+        z-index: 5;
+    }
+    div.text4 {
+        position: absolute;
+        top: 9500px;
+        left: 10px;
+        width: 700px;
+        z-index: 5;
+    }
+    div.text5 {
+        position: absolute;
+        top: 13250px;
+        left: 430px;
+        width: 305px;
+        z-index: 6 !important;
+    }
+    div.text6 {
+        position: absolute;
+        top: 15700px;
+        left: -10px;
+        width: 600px;
+        z-index: 5;
+    }
+    div.text7 {
+        position: absolute;
+        top: 16220px;
+        left: 70px;
+        width: 650px;
+        z-index: 5;
+    }
+    div.referencebox {
+        height: 0;
+        max-width: 600px;
+        min-width: 200px;
+        overflow: visible;
+        margin: 20px auto;
+        position: relative;
+    }
+    div.picture {
+        overflow: hidden;
+        position: fixed;
+        transform-origin: center;
+        -webkit-transform-origin: center center;
+        -ms-transform-origin: center center;
+        pointer-events: none;
+        z-index: 99;
+    }
+    div.plane {
+        overflow: visible;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+    }
+    div.sprite {
+        overflow: visible;
+        position: absolute;
+    }
+    div.sprite2 {
+        overflow: visible;
+        position: absolute;
+    }
+    div.entry, div.post, #content {
+        overflow: visible !important;
+    }
+    div.referencebox img {
+        max-width: inherit;
+    }
+    div.foreground {
+        position: fixed;
+        left: 0;
+        top: 0;
+        background-color: #261C4B;
+        opacity: 0;
+        pointer-events: none;
+    }
+    div.starfield {
+        position: fixed;
+        left: 0;
+        top: 0;
+        pointer-events: none;
+    }
+    div.starspot {
+        position: absolute;
+        background-image: url("http://www.prequeladventure.com/this/twinkle.png");
+        width: 3px;
+        height: 3px;
+        overflow: hidden;
+        pointer-events: none;
+        display: none;
+    }
+    body.custom-background {
+        background-image: url("/this/story2056e.png"), url("/this/story2056d.gif") !important;
+        background-color: #000000;
+        background-attachment: scroll, scroll;
+        background-repeat: repeat-y, repeat-y;
+        background-position: center 0, center 0;
+    }
+</style>
+<p><script>
+    jQuery(function () {
+        let NUM_STARS = 1000;
+        let MAX_STARS_PER_TWINKLE = 50;
+        let MAX_PERIOD_BETWEEN_TWINKLES = 100;
+        let STARS_START_SCROLLY = 4000;
+        let STARS_MAX_SCROLLY = 8000;
+        let STARS_MOVEMENT_FACTOR = -0.01;
+        jQuery("div.referencebox").each(function () {
+            var referencebox = jQuery(this);
+            var referencebox_height = referencebox.height();
+            jQuery(window).scroll(function () {
+                var deviation = referencebox.offset().top + referencebox_height / 2 -
+                    jQuery(window).scrollTop() - jQuery(window).height() / 2;
+                referencebox.find("div.plane").css("top", function () {
+                    return Math.floor(parseFloat(jQuery(this).attr("factor") || "0") * deviation)
+                });
+            });
+        });
+        // black bg
+             jQuery("body.custom-background").each(function () {
+                 var referencebox = jQuery(this);
+                 var referencebox_height = referencebox.height();
+                 var bg = jQuery("body.custom-background");
+                 jQuery(window).scroll(function () {
+                     var deviation = jQuery(window).scrollTop() + jQuery(window).scrollTop() / 2 -
+                         jQuery(window).scrollTop() - jQuery(window).height() / 2;
+                     bg.css("background-position", function () {
+                         return ("center " + (parseFloat(.15) * deviation - 1250) + "px, center " + (parseFloat(.4) * deviation + 380) + "px")
+                     });
+                 });
+             });
+        var foreground = jQuery("div.foreground");
+        let starfield = jQuery("div.starfield");
+        jQuery(window).scroll(function () {
+            var max_alpha = .75;
+            var foreground_height_tweak = 0;
+            var fade_start = jQuery("#fade_start").offset().top;
+            var fade_max = jQuery("#fade_max").offset().top;
+            var fade_end = jQuery("#fade_end").offset().top;
+            foreground.css('height', foreground_height_tweak + fade_end);
+            foreground.css('width', 9999);
+            if (window.scrollY < fade_start) {
+                foreground.css('opacity', 0);
+            } else if (window.scrollY < fade_max) {
+                dynamic_opacity = (1 - (fade_max - window.scrollY) / (fade_max - fade_start)) * max_alpha;
+                foreground.css('opacity', dynamic_opacity);
+            } else if (window.scrollY < fade_end) {
+                foreground.css('opacity', max_alpha);
+            } else {
+                // uhhhhhhh
+                dynamic_opacity = (1 + (fade_end - window.scrollY) / (fade_max - fade_start)) * max_alpha;
+                foreground.css('opacity', dynamic_opacity);
+            }
+            starfield.css({top: Math.floor(window.scrollY * STARS_MOVEMENT_FACTOR)});
+        });
+        for (let i = 0; i < NUM_STARS; i++) {
+            jQuery('<'+'div class="starspot">'+'<'+'/div>')
+                .css({left: Math.floor(Math.random()*2000)+"px", top: Math.floor(Math.random()*2000)+"px"})
+                .appendTo(starfield);
+        }
+        let all_stars = jQuery("div.starspot");
+        function twinkle() {
+            let num_visible = (window.scrollY - STARS_START_SCROLLY) * NUM_STARS / (STARS_MAX_SCROLLY - STARS_START_SCROLLY);
+            num_visible = Math.max(0, Math.min(NUM_STARS, num_visible));
+            for (let i = 0; i < Math.floor(Math.random() * MAX_STARS_PER_TWINKLE + 1); i++) {
+                let this_star_idx = Math.floor(Math.random() * NUM_STARS);
+                let this_star = jQuery(all_stars[this_star_idx]);
+                if (this_star_idx < num_visible) {
+                    this_star.show().css({
+                        display: "visible",
+                        opacity: Math.random(),
+                        "background-position": "left " + Math.floor(Math.random() * -4) + "px"
+                    });
+                } else {
+                    this_star.hide();
+                }
+            }
+            setTimeout(twinkle, Math.random() * MAX_PERIOD_BETWEEN_TWINKLES);
+        }
+        twinkle();
+        jQuery(window).resize();
+    });
+</script></p>
+<div class="foreground colourOverlay"></div>
+<div class="starfield"></div>
+<div class="aboveOverlay" style="position:relative;">
+<div class="referencebox">
+<div class="picture"
+         style="width: 5010px; height: 1600px; top: 5200px; transform: scale(1);overflow:visible;"></p>
+<div class="plane" factor=".9" style="top: 78px;left:-500px;">
+<div class="sprite" style="left:-570px;top:-1700px;width:2000px;"><img
+                    src="/this/story2056c.gif"></div>
+</p>
+</div>
+<div class="plane" factor="1.2" style="top: 78px;left:-500px;">
+<div class="sprite" style="left:-570px;top:-500px;width:2000px;"><img
+                    src="/this/story2056b.gif"></div>
+</p>
+</div>
+<div class="plane" factor="1.5" style="top: 78px;left:-500px;">
+<div class="sprite" style="left:-570px;top: 750px;width:2000px;"><img
+                    src="/this/story2056.gif"></div>
+</p>
+</div>
+</div>
+</div>
+<center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Creepa-BotInc. wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Wait, there's some kind of giant ring around you. I think that might be a barrier separating you from any other worlds, so that idea of getting anything from any other world is a bust.</i></left></td></tr></table></br></center>
+<div id="fade_start"></div>
+<p><img src="/this/TrustworthySpacer.gif"><br />
+<img src="/this/TrustworthySpacer.gif"></p>
+<div class="bigimg"><img src="/this/story2054b.gif"></p>
+<div class="text-1"><span style="color: rgba(249,249,249,1);">Let's&nbsp;&nbsp;find out.</span></p>
+<div id="40fade_max"></div>
+</p></div>
+<div class="text0">
+<div id="fade_max"></div>
+</p></div>
+<div class="text1"><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>mtv-catfish wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>is it normal to be able to *feel* the stars?? is it in any of your books?</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>CodeSpark wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Reach for the brightest one, it might be close enough for you to reach.</i></left></td></tr></table></br></center></div>
+<div class="text2"><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>AmongtheStars wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Wait a second, aren't stars made of magicka or something? If so, you might be able to siphon just a bit of magic from them, somehow. Worth a shot, anyway.</i></left></td></tr></table></br></center><br />
+        <span style="color: rgba(249,249,249,1);">You've always heard they are "holes in the night sky to Aetherius", though these definitely seem more ball-like than hole-like. And while it sounds good in theory, vigorously groping the ball with your magicka-squiggle apparently doesn't siphon power out of it.</span>
+    </div>
+<div class="text3"><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>Three wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>The reason you couldn’t teleport out of the cage was that you didn’t sense anything outside to attach your magic to, right? Well, now you do. Might be worth a shot.</i></left></td></tr></table></br></center><br />
+        <span style="color: rgba(249,249,249,1);">You try out your teleportation idea from earlier, imagining a tunnel along the magicka strand and yourself moving along it. You imagine as hard as you can, but nothing seems to happen. Either teleportation is more complicated than you assumed, or some subconscious part of you <i>doesn't</i> want to teleport up into the sky.</span></p>
+<p>        <span style="color: rgba(249,249,249,1);">Another minute has passed. Sigrid is still talking, for now.</span>
+    </div>
+<div class="text4"><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>SightlyConcerned wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Touch EVERYTHING in the big nothing!!!</i></left></td></tr></table></br></center> <center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>VoiceOfReason wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Don't pick one that feels evil or one that feels good. Evil would try to disguise itself as a good one. Pick one that feels neutral.</i></left></td></tr></table></br></center>
+    </div>
+<div class="text5"><span style="color: rgba(249,249,249,1);">Aaaaand that looks like where you started. You must have gotten turned around somewhere. That, or space loops at the edges.</span></p>
+<p>        <span style="color: rgba(249,249,249,1);">You're pretty sure at least another minute has passed, maybe two. You're losing track.</span>
+    </div>
+<div class="referencebox">
+<div class="picture"
+             style="width: 5010px; height: 1600px; top: -1800px; left: 0px; transform: scale(1);overflow:visible;"></p>
+<div class="plane" factor="0.5" style="top: 78px;left:-500px;">
+<div class="sprite2" style="left:500px;top:405px;width:2000px;z-index:-2 !important;"><img
+                        src="/this/story2055.gif"></div>
+</p>
+</div>
+</div></div>
+<div class="text6"><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>ApparentlyAlvin wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>Conjuration is not about might, or solving riddles, or agonizing over musty old scrolls. It's about fostering relations. Being friendly, you might say. You have to reach out to the spirits or the daedra and convince them that being here is better than being where they currently are, that protecting you is a worthwhile commitment.</i></left></td></tr></table></br></center><br />
+        <span style="color: rgba(249,249,249,1);">You'd <i>like</i> to foster some relations! That was the whole idea. The issue is that there's just nothing out here. While it's surprisingly easy to reach your little magic-line up into the sky, all you've found are scattered balls of light.</span></p>
+<p>        <span style="color: rgba(249,249,249,1);">Maybe otherworldly forces just <i>really</i> don't want to help you. Or, maybe beckoning help from otherworldly forces is just completely outside the abilities of a stupid country bumpkin who started magic two days ago. Like, it wouldn't exactly be the <i>first</i> time you've grossly overestimated your capabilities. It wouldn't be the first time in the last <i>five minutes</i>, what with your plan to magically teleport out of here.</span>
+    </div>
+<div class="text7"><center><br><table class="contribution" style="width: 90%; background-color:#B29C6E; border-collapse: separate;"><tr><td style="padding:1px;font-size:small" bgcolor=#B29C6E><center><b>thatItch wrote:</b></center></td></tr><tr><td style="padding:5px;font-size:small" bgcolor=#EADCBF><left><i>You know how you can't see two drawings on two sheets of paper at the same time when they're layered on top of each-other unless you put them against the light sourse? Try to imagine space around you as a layer and see if there may be other layers with something that may have something summonable.</i></left></td></tr></table></br></center></p>
+<p>        <span style="color: rgba(249,249,249,1);">Or... maybe you're not looking in the right spot.</span></p>
+<p>        <span style="color: rgba(249,249,249,1);">You've been weaving your little magicka-line around in the distance as though you're going to find another world far, far away. If summoning creatures from other planes was some kind of very-long-range teleport, though, then every summoner would have to be an <i>expert</i> at teleportation. And like, you've seen Sigrid walk places. If you could teleport, you would never, ever walk. </span></p>
+<div id="fade_end"></div>
+<p>        <span style="color: rgba(249,249,249,1);">But maybe it's <i>not</i> a distance thing, but "another sheet of paper". If you were actually going to invoke some kind of otherworldly help, maybe you have to look in some kind of weird, fuckways direction.</span></p>
+<p>        <span style="color: rgba(249,249,249,1);">Which, of course, puts you back at square one. And to make matters worse, you hear a finality in Sigrid's tone that implies she's nearing the end of her longwinded explanation. Without the slightest lead, your plan to come up with a plan isn't exactly going great right now. </span>
+    </div>
+</div>
+</div>
+<p style="text-align: right; font-size: x-small;"><b>Additional resource credits:</b><br />
+<a href="//www.flyingcheetah.org/">Ch'marr</a><br />
+<a href="//caliber.pw/">Caliber</a><br />
+AMKitsune</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prequeladventure.com/2018/04/katia-confront-barrier/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
