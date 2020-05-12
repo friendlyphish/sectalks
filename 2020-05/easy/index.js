@@ -3,9 +3,10 @@ const chalk = require('chalk');
 const fs = require('fs');
 
 // Encrypt the flag
-fs.writeFile('/workdir/html/flag/submit', "try_harder", console.log);
-fs.writeFile('/workdir/html/flag/get', "its_not_that_easy", console.log);
-fs.writeFile('/workdir/html/flag/sectalks', process.env.FLAG, console.log);
+fs.writeFile('/workdir/html/flag/one', "try_harder", console.log);
+fs.writeFile('/workdir/html/flag/een', "try_even_harder", console.log);
+fs.writeFile('/workdir/html/flag/post', "its_not_that_easy", console.log);
+fs.writeFile('/workdir/html/flag/ready', process.env.FLAG, console.log);
 
 // Run our webserver
 process.on('SIGINT', function() {

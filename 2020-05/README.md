@@ -4,11 +4,13 @@
 
 Reverse engineer the JavaScript code.  Simplify it to the point you can actually understand what's going on.
 
-Hint: use a good code editor that can intelligently rename JavaScript variables!
+Hint: use [Chrome Devtools Local Overrides](https://developers.google.com/web/updates/2018/01/devtools#overrides) to be able to change the scripts.
 
-## Concepts
+Hint: use a code editor that can intelligently rename JavaScript variables, e.g. Visual Studio Code.
 
-Introduces the following concepts:
+## Concept
+
+Introduce the following techniques:
 
 * Minification... replace var names, remove comments
 * Compression... string, decompress, eval
@@ -21,6 +23,6 @@ Introduces the following concepts:
 
 ## Run
 
-docker build -t sectalks:easy . && docker run -p 9080:9080 -ti --rm=false -e FLAG="insert_flag_here" sectalks:easy
+docker build -t sectalks:easy . && docker run -p 9080:9080 -ti --rm=false -e FLAG="insert_credit_card_here" sectalks:easy
 
-docker build -t sectalks:hard . && docker run -p 9080:9080 -ti --rm=false -e FLAG="insert_flag_here" sectalks:hard
+docker build -t sectalks:hard . && docker run -p 9081:9080 -ti --rm=false -e FLAG="skimmer_surcharge_applied" sectalks:hard

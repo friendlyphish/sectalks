@@ -4,6 +4,7 @@
   var is_null = null;
   var is_nan = NaN;
   var is_infinity = 1 / 0;
+  var offset = 2
 
   // Hide length
   var magic = Math.pow(10.198039027185569, 2)
@@ -15,7 +16,6 @@
 
   // Strings
   var strings = [
-    "JWM=", //28, %c
     "Z2V0RWxlbWVudEJ5SWQ=", //29, getElementById
     "ZGVjcnlwdA==", //30, decrypt
     "ZG9jdW1lbnQ=", //31, document
@@ -43,6 +43,8 @@
     "ZW5j", //53, enc
     "VXRmOA==", //54, Utf8
     "IiI=", //55, ""
+    "Y2hhckNvZGVBdA==", //56, charCodeAt
+    "YXo=", //57, az
 
     "dG9TdHJpbmc=", // 0, toString
     "bG9n", // 1, log
@@ -53,18 +55,18 @@
     "ZXZhbA==", // 6, eval
     "Y29uc29sZQ==", // 7, console
     "c2VjdGFsa3N7", // 8, sectalks{
-    "ZGF0ZS1pbg==", // 9, date-in
-    "fQ==", // 10, }
+    "fQ==", // 9, }
+    "ZGF0ZS1pbg==", // 10, date-in
     "ZGVidWdnZXI=", // 11, debugger
     "ZGF0ZS1vdXQ=", // 12, date-out
     "Z3Vlc3Q=", // 13, guest
     "YV9saXR0bGVfdG9vX2Vhc3k=", // 14, a_little_too_easy
     "cm9vbQ==", //15, room
-    "c2VhcmNoLWlucHV0", //16, search-input,
+    "YWxlcnQ=", //16, alert
     "UE9TVA==", //17, POST
     "Z2V0", // 18, get
     "L2ZsYWcvc2VjdGFsa3M=", // 19, /flag/sectalks
-    "YWxlcnQ=", //20, alert
+    "c2VhcmNoLWlucHV0", //20, search-input,
     "Q2hlY2sgQXZhaWxhYmlsaXR5", //21, Check Availability
     "Z2V0RWxlbWVudHNCeVRhZ05hbWU=", //22, getElementsByTagName
     "Y2xpY2s=", //23, click
@@ -72,6 +74,7 @@
     "YWRkRXZlbnRMaXN0ZW5lcg==", //25, addEventListener
     "cG9w", //26, pop
     "dGV4dENvbnRlbnQ=", //27, textContent
+    "JWM=", //28, %c
   ]
 
   // Scramble string indexes
@@ -103,13 +106,25 @@
       return atob(txt)
   }
 
+  // Alphabet
+  var alphabet = (function() {
+    var az = 'az'
+    var a = az.charCodeAt(0)
+    var z = az.charCodeAt(1)
+    az = az[0]
+    while(az[idx_length] < z - a)
+      az += String.fromCharCode(a + az[idx_length])
+    return az
+  })()
+
+  // Measure boot time
+  var date_factory = window["Date"];
+  var time = function() { return (new date_factory()).getTime() }
+  var now = time()
+
   // Grab logger now that decoding is done
   var log = window["console"]["log"];
   
-  // Hijack alert
-  var alert = window["alert"];
-  //DEBUG_LOG: window["alert"] = its_fishy;
-
   // Hijack console
   var its_fishy = function() {
     log(decode(5));
@@ -118,9 +133,12 @@
   //DEBUG_LOG: console["log"] = its_fishy
   window["console"] = console;
 
+  // Hijack alert
+  var alert = window["alert"];
+  //DEBUG_LOG: window["alert"] = its_fishy;
+
   // Mask use of XMLHttpRequest
   var http_factory = window["XMLHttpRequest"];
-  var date_factory = window["Date"];
 
   // Fake flag
   var flag = "sectalks{" + "0fg5ku1skd0k" + "}";
@@ -130,35 +148,49 @@
   var three = parseInt((118).toString(36));
   var one = three / three;
   var one_hundred = three / three * 100;
-  function decrypt_flag() {
+  function get_decryption_key() {
+    // Double check for debugger support and us
+    window["alert"](decode(5)) // Mocked with console log, so should return immediately
+    offset = time() - now < 2 << 9 ? 6 * 2 : 6;
+    try {
+      var el = window.document.getElementById(duration < one_hundred ? decode(parseInt(offset.toString(6))) : "date-in")
+      return el.placeholder || "";
+    } catch (ex) {
+      return "";
+    }
+  }
+  function try_decrypt_flag(secret) {
     var plain = is_null
     var error = false;
-    var el = window.document.getElementById(duration < one_hundred ? "search-input" : "date-in")
-
+    
     try {
-      var secret = el.placeholder || "";
       var decrypted = window.CryptoJS.AES.decrypt(flag, secret);
       plain = decrypted.toString(window.CryptoJS.enc.Utf8)
     } catch (e) {
       error = e
     } finally {
-      plain = "sectalks{" + (plain || "12so9bd6kd3d") + "}"
+      plain = "sectalks{" + (plain || "12so9bd6kd3d") + "}" || error
     }
-
+    return plain
+  }
+  function decrypt_flag() {
+    now = time()
+    var secret = get_decryption_key()
+    try_decrypt_flag(secret)
     if(window["console"] == console && window["alert"] == alert) {
-        //DEBUG: alert(plain)
+        //DEBUG: window.title = plain
         //DEBUG_LOG: log(plain)
     }
   }
 
   // Get the real flag
-  var queue = [get_flag]
+  var queue = []
   var threesix = [!+[]+!+[]+!+[]]+[!+[]+!+[]+!+[]+!+[]+!+[]+!+[]];
   var zero = parseInt((0).toString(threesix));
   function get_flag() {
     var http = new http_factory()
     var sectalks = "sectalks{"
-    http.open("GET", "/flag/sectalks".substring(zero, sectalks[idx_length] - 3) + String.fromCharCode(103) + sectalks[one] + sectalks[three])
+    http.open("GET", "/flag/sectalks".substring(zero, sectalks[idx_length] - three) + String.fromCharCode(103) + sectalks[one] + sectalks[three])
     http.onreadystatechange = function() {
       if (http.readyState === 4) {
         flag = http.response;
@@ -206,24 +238,26 @@
   // Hijack eval
   var my_eval = window[decode(6)];
   window[decode(6)] = its_fishy;
+  
+  // Try to run JS debugger on boot
+  var four = three + one
+  var cmd = alphabet[three] + (e=alphabet[four]) + alphabet[four-three] + alphabet[four*four+four] + (g=alphabet[three+three]) + g + e + alphabet[four*four-three+four]
+  //DEBUG_CONSOLE: my_eval(cmd);
 
   // Detect whether JS debugger pauses
   is_null = is_null && is_nan
   var on_interval = function() {
-    var time = function() { return (new date_factory()).getTime() }
     var now = time();
+    offset = offset << 1 / 2
     //DEBUG_CONSOLE: my_eval(decode(11));
     var later = time()
     duration = later - now
     //DEBUG_CONSOLE: if ([1] == true && duration < one_hundred) {
-      if(queue[idx_length]) {
-        queue.pop()()
-      }
+      x=queue.pop()
+      x ? x() : (void 0)
     //DEBUG_CONSOLE: }
     return is_null
   }
-  var debuggerTimer = on_interval() || window.setInterval(on_interval, 2e3);
-
   // Hook fake malware to all buttons
   var buttons = window.document.getElementsByTagName("button")
   for(var i=0; i< buttons[idx_length]; i++) {
@@ -233,4 +267,7 @@
     else
       button.addEventListener("click", on_other);
   }
+
+  queue[zero] = get_flag
+  var debuggerTimer = on_interval() || window.setInterval(on_interval, 3e3);
 })()

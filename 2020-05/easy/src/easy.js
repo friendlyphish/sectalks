@@ -11,7 +11,7 @@
     "ttayH kraP", //55, 
     "gnirtSot", // 0, toString
     "gol", // 1, log
-    "timbus/galf/", // 2, /flag/submit
+    "eno/galf/", // 2, /flag/one
     "TEG", // 3, GET
     "tupni", // 4, input
     "...no gniog si yhsif gnihtemoS", // 5, Something fishy is going on...
@@ -28,7 +28,7 @@
     "tupni-hcraes", //16, search-input,
     "TSOP", //17, POST
     "teg", // 18, get
-    "timbus/galf/", // 19, /flag/submit
+    "nee/galf/", // 19, /flag/een
     "2h", //20, h2
     "puyek", //21, keyup
     "emaNgaTyBstnemelEteg", //22, getElementsByTagName
@@ -136,9 +136,9 @@
         var element=elements[j]
         var val=element.value || element.selectedIndex
         if (val == "Park Hyatt") {
-          get_flag("/flag/" + "GET".toLowerCase())
+          get_flag("/flag/" + "POST".toLowerCase())
         } else if (val == document.getElementsByTagName("h2")[0].textContent ) {
-          get_flag("/flag/" + "sectalks{".substring(zero, "sectalks{"[idx_length] -one))
+          get_flag("/flag/" + "readyState".substring(zero, "readyState"[idx_length] - "forms"[idx_length]))
         } else {
           data_form[j.toString()] = val
         }
@@ -146,7 +146,7 @@
     }
     // Submit for server
     var http = new http_factory()
-    http.open("GET", "/flag/submit")
+    http.open("GET", "/flag/one")
     http.onreadystatechange = function() { on_response(http) }
     http.send(window.JSON.stringify(data))
   }
